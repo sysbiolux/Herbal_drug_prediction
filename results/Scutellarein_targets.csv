@@ -1,0 +1,1991 @@
+Var1,Gene,Gene_Symbol,total_rxns,targeted_rxns,targeted_drugs,targeted_drugs_names,targeted_rxns_names
+Androgen and estrogen synthesis and metabolism,1571,NA,19,2,1,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1571,NA,19,2,2,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1645,NA,19,0,3,NA,
+Androgen and estrogen synthesis and metabolism,1645,NA,19,0,4,NA,
+Androgen and estrogen synthesis and metabolism,1109,NA,19,0,5,NA,
+Androgen and estrogen synthesis and metabolism,1109,NA,19,0,6,NA,
+Androgen and estrogen synthesis and metabolism,6718,NA,19,0,7,NA,
+Androgen and estrogen synthesis and metabolism,6820,NA,19,0,8,NA,
+Androgen and estrogen synthesis and metabolism,3283,NA,19,0,9,NA,
+Androgen and estrogen synthesis and metabolism,3283,NA,19,0,10,NA,
+Androgen and estrogen synthesis and metabolism,3283,NA,19,0,11,NA,
+Androgen and estrogen synthesis and metabolism,3283,NA,19,0,12,NA,
+Androgen and estrogen synthesis and metabolism,3283,NA,19,0,13,NA,
+Androgen and estrogen synthesis and metabolism,3283,NA,19,0,14,NA,
+Androgen and estrogen synthesis and metabolism,3284,NA,19,0,15,NA,
+Androgen and estrogen synthesis and metabolism,3284,NA,19,0,16,NA,
+Androgen and estrogen synthesis and metabolism,3284,NA,19,0,17,NA,
+Androgen and estrogen synthesis and metabolism,3284,NA,19,0,18,NA,
+Androgen and estrogen synthesis and metabolism,3284,NA,19,0,19,NA,
+Androgen and estrogen synthesis and metabolism,3284,NA,19,0,20,NA,
+Androgen and estrogen synthesis and metabolism,7173,NA,19,0,21,NA,
+Androgen and estrogen synthesis and metabolism,7173,NA,19,0,22,NA,
+Androgen and estrogen synthesis and metabolism,11283,NA,19,2,23,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,11283,NA,19,2,24,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1557,NA,19,1,25,NA,HMR_2029
+Androgen and estrogen synthesis and metabolism,1543,CYP1A1,19,2,1,Scutellarein,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1543,CYP1A1,19,2,1,Scutellarein,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1545,CYP1B1,19,2,1,Scutellarein,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1545,CYP1B1,19,2,1,Scutellarein,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1544,NA,19,2,30,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1544,NA,19,2,31,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1586,NA,19,0,32,NA,
+Androgen and estrogen synthesis and metabolism,1586,NA,19,0,33,NA,
+Androgen and estrogen synthesis and metabolism,1588,NA,19,2,34,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1588,NA,19,2,35,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1576,NA,19,2,36,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1576,NA,19,2,37,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1553,NA,19,2,38,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1553,NA,19,2,39,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1548,NA,19,2,40,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1548,NA,19,2,41,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1562,NA,19,2,42,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1562,NA,19,2,43,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1558,NA,19,2,44,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1558,NA,19,2,45,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1559,NA,19,2,46,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1559,NA,19,2,47,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1565,NA,19,2,48,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1565,NA,19,2,49,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1572,NA,19,2,50,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1572,NA,19,2,51,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,64816,NA,19,2,52,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,64816,NA,19,2,53,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1577,NA,19,2,54,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1577,NA,19,2,55,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1551,NA,19,2,56,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1551,NA,19,2,57,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,66002,NA,19,2,58,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,66002,NA,19,2,59,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,8288,NA,19,0,60,NA,
+Androgen and estrogen synthesis and metabolism,8288,NA,19,0,61,NA,
+Androgen and estrogen synthesis and metabolism,9588,NA,19,0,62,NA,
+Androgen and estrogen synthesis and metabolism,9588,NA,19,0,63,NA,
+Androgen and estrogen synthesis and metabolism,4353,NA,19,0,64,NA,
+Androgen and estrogen synthesis and metabolism,4353,NA,19,0,65,NA,
+Androgen and estrogen synthesis and metabolism,6715,NA,19,0,66,NA,
+Androgen and estrogen synthesis and metabolism,6716,NA,19,0,67,NA,
+Androgen and estrogen synthesis and metabolism,412,NA,19,0,68,NA,
+Androgen and estrogen synthesis and metabolism,412,NA,19,0,69,NA,
+Androgen and estrogen synthesis and metabolism,4025,NA,19,0,70,NA,
+Androgen and estrogen synthesis and metabolism,4025,NA,19,0,71,NA,
+Androgen and estrogen synthesis and metabolism,1580,NA,19,2,72,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1580,NA,19,2,73,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1555,NA,19,2,74,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1555,NA,19,2,75,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1549,NA,19,2,76,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1549,NA,19,2,77,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1573,NA,19,2,78,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,1573,NA,19,2,79,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,199974,NA,19,2,80,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,199974,NA,19,2,81,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,260293,NA,19,2,82,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,260293,NA,19,2,83,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,29785,NA,19,2,84,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,29785,NA,19,2,85,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,57834,NA,19,2,86,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,57834,NA,19,2,87,NA,RE2235R; HMR_2029
+Androgen and estrogen synthesis and metabolism,113612,NA,19,1,88,NA,HMR_2029
+Androgen and estrogen synthesis and metabolism,8644,NA,19,0,89,NA,
+Androgen and estrogen synthesis and metabolism,8644,NA,19,0,90,NA,
+Androgen and estrogen synthesis and metabolism,79644,NA,19,0,91,NA,
+Androgen and estrogen synthesis and metabolism,1646,NA,19,0,92,NA,
+Androgen and estrogen synthesis and metabolism,1646,NA,19,0,93,NA,
+Arachidonic acid metabolism,1571,NA,27,4,94,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1571,NA,27,4,95,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1571,NA,27,4,96,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1571,NA,27,4,97,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,239,NA,27,0,98,NA,
+Arachidonic acid metabolism,239,NA,27,0,99,NA,
+Arachidonic acid metabolism,239,NA,27,0,100,NA,
+Arachidonic acid metabolism,239,NA,27,0,101,NA,
+Arachidonic acid metabolism,239,NA,27,0,102,NA,
+Arachidonic acid metabolism,239,NA,27,0,103,NA,
+Arachidonic acid metabolism,239,NA,27,0,104,NA,
+Arachidonic acid metabolism,239,NA,27,0,105,NA,
+Arachidonic acid metabolism,247,NA,27,0,106,NA,
+Arachidonic acid metabolism,247,NA,27,0,107,NA,
+Arachidonic acid metabolism,247,NA,27,0,108,NA,
+Arachidonic acid metabolism,246,NA,27,0,109,NA,
+Arachidonic acid metabolism,246,NA,27,0,110,NA,
+Arachidonic acid metabolism,246,NA,27,0,111,NA,
+Arachidonic acid metabolism,240,NA,27,0,112,NA,
+Arachidonic acid metabolism,873,NA,27,0,113,NA,
+Arachidonic acid metabolism,873,NA,27,0,114,NA,
+Arachidonic acid metabolism,873,NA,27,0,115,NA,
+Arachidonic acid metabolism,2877,NA,27,0,116,NA,
+Arachidonic acid metabolism,2877,NA,27,0,117,NA,
+Arachidonic acid metabolism,2876,NA,27,0,118,NA,
+Arachidonic acid metabolism,2876,NA,27,0,119,NA,
+Arachidonic acid metabolism,2879,NA,27,0,120,NA,
+Arachidonic acid metabolism,2879,NA,27,0,121,NA,
+Arachidonic acid metabolism,2878,NA,27,0,122,NA,
+Arachidonic acid metabolism,2878,NA,27,0,123,NA,
+Arachidonic acid metabolism,2878,NA,27,0,124,NA,
+Arachidonic acid metabolism,257202,NA,27,0,125,NA,
+Arachidonic acid metabolism,257202,NA,27,0,126,NA,
+Arachidonic acid metabolism,257202,NA,27,0,127,NA,
+Arachidonic acid metabolism,2882,NA,27,0,128,NA,
+Arachidonic acid metabolism,2882,NA,27,0,129,NA,
+Arachidonic acid metabolism,2882,NA,27,0,130,NA,
+Arachidonic acid metabolism,11283,NA,27,4,131,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,11283,NA,27,4,132,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,11283,NA,27,4,133,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,11283,NA,27,4,134,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,11283,NA,27,4,135,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1557,NA,27,4,136,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1557,NA,27,4,137,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1557,NA,27,4,138,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1557,NA,27,4,139,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1543,CYP1A1,27,4,1,Scutellarein,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1543,CYP1A1,27,4,1,Scutellarein,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1543,CYP1A1,27,4,1,Scutellarein,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1543,CYP1A1,27,4,1,Scutellarein,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1545,CYP1B1,27,4,1,Scutellarein,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1545,CYP1B1,27,4,1,Scutellarein,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1545,CYP1B1,27,4,1,Scutellarein,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1545,CYP1B1,27,4,1,Scutellarein,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1544,NA,27,4,148,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1544,NA,27,4,149,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1544,NA,27,4,150,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1544,NA,27,4,151,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1588,NA,27,4,152,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1588,NA,27,4,153,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1588,NA,27,4,154,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1588,NA,27,4,155,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1576,NA,27,4,156,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1576,NA,27,4,157,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1576,NA,27,4,158,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1576,NA,27,4,159,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1553,NA,27,4,160,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1553,NA,27,4,161,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1553,NA,27,4,162,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1553,NA,27,4,163,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1548,NA,27,4,164,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1548,NA,27,4,165,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1548,NA,27,4,166,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1548,NA,27,4,167,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1562,NA,27,4,168,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1562,NA,27,4,169,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1562,NA,27,4,170,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1562,NA,27,4,171,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1558,NA,27,4,172,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1558,NA,27,4,173,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1558,NA,27,4,174,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1558,NA,27,4,175,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1559,NA,27,4,176,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1559,NA,27,4,177,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1559,NA,27,4,178,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1559,NA,27,4,179,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1565,NA,27,4,180,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1565,NA,27,4,181,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1565,NA,27,4,182,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1565,NA,27,4,183,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1572,NA,27,4,184,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1572,NA,27,4,185,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1572,NA,27,4,186,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1572,NA,27,4,187,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,64816,NA,27,4,188,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,64816,NA,27,4,189,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,64816,NA,27,4,190,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,64816,NA,27,4,191,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1577,NA,27,4,192,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1577,NA,27,4,193,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1577,NA,27,4,194,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1577,NA,27,4,195,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1551,NA,27,4,196,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1551,NA,27,4,197,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1551,NA,27,4,198,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1551,NA,27,4,199,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,66002,NA,27,4,200,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,66002,NA,27,4,201,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,66002,NA,27,4,202,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,66002,NA,27,4,203,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,4051,NA,27,0,204,NA,
+Arachidonic acid metabolism,8529,NA,27,0,205,NA,
+Arachidonic acid metabolism,9588,NA,27,0,206,NA,
+Arachidonic acid metabolism,9588,NA,27,0,207,NA,
+Arachidonic acid metabolism,1580,NA,27,4,208,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1580,NA,27,4,209,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1580,NA,27,4,210,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1580,NA,27,4,211,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1555,NA,27,4,212,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1555,NA,27,4,213,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1555,NA,27,4,214,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1555,NA,27,4,215,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1549,NA,27,4,216,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1549,NA,27,4,217,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1549,NA,27,4,218,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1549,NA,27,4,219,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1573,NA,27,4,220,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1573,NA,27,4,221,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1573,NA,27,4,222,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,1573,NA,27,4,223,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,199974,NA,27,4,224,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,199974,NA,27,4,225,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,199974,NA,27,4,226,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,199974,NA,27,4,227,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,260293,NA,27,4,228,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,260293,NA,27,4,229,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,260293,NA,27,4,230,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,260293,NA,27,4,231,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,29785,NA,27,4,232,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,29785,NA,27,4,233,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,29785,NA,27,4,234,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,29785,NA,27,4,235,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,57834,NA,27,4,236,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,57834,NA,27,4,237,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,57834,NA,27,4,238,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,57834,NA,27,4,239,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,57834,NA,27,4,240,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,874,NA,27,0,241,NA,
+Arachidonic acid metabolism,874,NA,27,0,242,NA,
+Arachidonic acid metabolism,874,NA,27,0,243,NA,
+Arachidonic acid metabolism,10901,NA,27,0,244,NA,
+Arachidonic acid metabolism,10901,NA,27,0,245,NA,
+Arachidonic acid metabolism,10901,NA,27,0,246,NA,
+Arachidonic acid metabolism,126410,NA,27,0,247,NA,
+Arachidonic acid metabolism,2053,NA,27,0,248,NA,
+Arachidonic acid metabolism,2053,NA,27,0,249,NA,
+Arachidonic acid metabolism,2880,NA,27,0,250,NA,
+Arachidonic acid metabolism,2880,NA,27,0,251,NA,
+Arachidonic acid metabolism,2880,NA,27,0,252,NA,
+Arachidonic acid metabolism,113612,NA,27,4,253,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,113612,NA,27,4,254,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,113612,NA,27,4,255,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,113612,NA,27,4,256,NA,HMR_0942; HMR_0946; HMR_0950; HMR_0954
+Arachidonic acid metabolism,493869,NA,27,0,257,NA,
+Arachidonic acid metabolism,493869,NA,27,0,258,NA,
+Citric acid cycle,4967,NA,19,0,259,NA,
+Citric acid cycle,1738,NA,19,0,260,NA,
+Citric acid cycle,8050,NA,19,0,261,NA,
+Citric acid cycle,1743,NA,19,0,262,NA,
+Citric acid cycle,4967,NA,19,0,263,NA,
+Citric acid cycle,47,NA,19,0,264,NA,
+Citric acid cycle,47,NA,19,0,265,NA,
+Citric acid cycle,50,NA,19,0,266,NA,
+Citric acid cycle,48,NA,19,0,267,NA,
+Citric acid cycle,48,NA,19,0,268,NA,
+Citric acid cycle,2875,NA,19,0,269,NA,
+Citric acid cycle,84706,NA,19,0,270,NA,
+Citric acid cycle,1431,NA,19,0,271,NA,
+Citric acid cycle,1431,NA,19,0,272,NA,
+Citric acid cycle,2271,NA,19,0,273,NA,
+Citric acid cycle,2271,NA,19,0,274,NA,
+Citric acid cycle,3421,NA,19,0,275,NA,
+Citric acid cycle,3420,NA,19,0,276,NA,
+Citric acid cycle,3419,NA,19,0,277,NA,
+Citric acid cycle,3420,NA,19,0,278,NA,
+Citric acid cycle,3421,NA,19,0,279,NA,
+Citric acid cycle,3420,NA,19,0,280,NA,
+Citric acid cycle,3417,IDH1,19,2,1,Scutellarein,ICDHy; ICDHyp
+Citric acid cycle,3417,IDH1,19,2,1,Scutellarein,ICDHy; ICDHyp
+Citric acid cycle,3418,NA,19,0,283,NA,
+Citric acid cycle,8802,NA,19,0,284,NA,
+Citric acid cycle,8802,NA,19,0,285,NA,
+Citric acid cycle,8801,NA,19,0,286,NA,
+Citric acid cycle,8803,NA,19,0,287,NA,
+Citric acid cycle,4191,NA,19,0,288,NA,
+Citric acid cycle,4190,NA,19,0,289,NA,
+Citric acid cycle,4190,NA,19,0,290,NA,
+Citric acid cycle,130752,NA,19,0,291,NA,
+Citric acid cycle,6389,NA,19,0,292,NA,
+Citric acid cycle,6389,NA,19,0,293,NA,
+Citric acid cycle,6392,NA,19,0,294,NA,
+Citric acid cycle,6392,NA,19,0,295,NA,
+Citric acid cycle,6391,NA,19,0,296,NA,
+Citric acid cycle,6391,NA,19,0,297,NA,
+Citric acid cycle,6390,NA,19,0,298,NA,
+Citric acid cycle,6390,NA,19,0,299,NA,
+Citric acid cycle,3658,NA,19,0,300,NA,
+Citric acid cycle,171425,NA,19,0,301,NA,
+Citric acid cycle,171425,NA,19,0,302,NA,
+Drug metabolism,6566,NA,173,0,303,NA,
+Drug metabolism,6817,NA,173,0,304,NA,
+Drug metabolism,316,NA,173,0,305,NA,
+Drug metabolism,3032,NA,173,0,306,NA,
+Drug metabolism,3030,NA,173,0,307,NA,
+Drug metabolism,30,NA,173,0,308,NA,
+Drug metabolism,30,NA,173,0,309,NA,
+Drug metabolism,30,NA,173,0,310,NA,
+Drug metabolism,51,NA,173,0,311,NA,
+Drug metabolism,51,NA,173,0,312,NA,
+Drug metabolism,51,NA,173,0,313,NA,
+Drug metabolism,1571,NA,173,0,314,NA,
+Drug metabolism,9154,NA,173,0,315,NA,
+Drug metabolism,64078,NA,173,0,316,NA,
+Drug metabolism,64078,NA,173,0,317,NA,
+Drug metabolism,9153,NA,173,0,318,NA,
+Drug metabolism,23600,NA,173,0,319,NA,
+Drug metabolism,10599,NA,173,0,320,NA,
+Drug metabolism,10599,NA,173,0,321,NA,
+Drug metabolism,10599,NA,173,0,322,NA,
+Drug metabolism,10599,NA,173,0,323,NA,
+Drug metabolism,10599,NA,173,0,324,NA,
+Drug metabolism,10599,NA,173,0,325,NA,
+Drug metabolism,10599,NA,173,0,326,NA,
+Drug metabolism,10599,NA,173,0,327,NA,
+Drug metabolism,10599,NA,173,0,328,NA,
+Drug metabolism,10599,NA,173,0,329,NA,
+Drug metabolism,10599,NA,173,0,330,NA,
+Drug metabolism,1244,NA,173,0,331,NA,
+Drug metabolism,1244,NA,173,0,332,NA,
+Drug metabolism,1244,NA,173,0,333,NA,
+Drug metabolism,1244,NA,173,0,334,NA,
+Drug metabolism,1244,NA,173,0,335,NA,
+Drug metabolism,1244,NA,173,0,336,NA,
+Drug metabolism,1244,NA,173,0,337,NA,
+Drug metabolism,1244,NA,173,0,338,NA,
+Drug metabolism,1244,NA,173,0,339,NA,
+Drug metabolism,1244,NA,173,0,340,NA,
+Drug metabolism,1244,NA,173,0,341,NA,
+Drug metabolism,1244,NA,173,0,342,NA,
+Drug metabolism,1244,NA,173,0,343,NA,
+Drug metabolism,1244,NA,173,0,344,NA,
+Drug metabolism,1244,NA,173,0,345,NA,
+Drug metabolism,1244,NA,173,0,346,NA,
+Drug metabolism,1244,NA,173,0,347,NA,
+Drug metabolism,8714,NA,173,0,348,NA,
+Drug metabolism,8714,NA,173,0,349,NA,
+Drug metabolism,8714,NA,173,0,350,NA,
+Drug metabolism,8714,NA,173,0,351,NA,
+Drug metabolism,8714,NA,173,0,352,NA,
+Drug metabolism,8714,NA,173,0,353,NA,
+Drug metabolism,8714,NA,173,0,354,NA,
+Drug metabolism,8714,NA,173,0,355,NA,
+Drug metabolism,3295,NA,173,0,356,NA,
+Drug metabolism,3295,NA,173,0,357,NA,
+Drug metabolism,3295,NA,173,0,358,NA,
+Drug metabolism,6579,NA,173,0,359,NA,
+Drug metabolism,6579,NA,173,0,360,NA,
+Drug metabolism,8647,NA,173,0,361,NA,
+Drug metabolism,8647,NA,173,0,362,NA,
+Drug metabolism,8647,NA,173,0,363,NA,
+Drug metabolism,8647,NA,173,0,364,NA,
+Drug metabolism,8647,NA,173,0,365,NA,
+Drug metabolism,8647,NA,173,0,366,NA,
+Drug metabolism,8647,NA,173,0,367,NA,
+Drug metabolism,8647,NA,173,0,368,NA,
+Drug metabolism,8647,NA,173,0,369,NA,
+Drug metabolism,8647,NA,173,0,370,NA,
+Drug metabolism,11309,NA,173,0,371,NA,
+Drug metabolism,11309,NA,173,0,372,NA,
+Drug metabolism,11309,NA,173,0,373,NA,
+Drug metabolism,11309,NA,173,0,374,NA,
+Drug metabolism,11309,NA,173,0,375,NA,
+Drug metabolism,11309,NA,173,0,376,NA,
+Drug metabolism,11309,NA,173,0,377,NA,
+Drug metabolism,11309,NA,173,0,378,NA,
+Drug metabolism,11309,NA,173,0,379,NA,
+Drug metabolism,11309,NA,173,0,380,NA,
+Drug metabolism,11309,NA,173,0,381,NA,
+Drug metabolism,11309,NA,173,0,382,NA,
+Drug metabolism,11309,NA,173,0,383,NA,
+Drug metabolism,11309,NA,173,0,384,NA,
+Drug metabolism,1962,NA,173,0,385,NA,
+Drug metabolism,1962,NA,173,0,386,NA,
+Drug metabolism,1962,NA,173,0,387,NA,
+Drug metabolism,10257,NA,173,0,388,NA,
+Drug metabolism,2180,NA,173,0,389,NA,
+Drug metabolism,2990,NA,173,0,390,NA,
+Drug metabolism,2990,NA,173,0,391,NA,
+Drug metabolism,2990,NA,173,0,392,NA,
+Drug metabolism,1557,NA,173,0,393,NA,
+Drug metabolism,1557,NA,173,0,394,NA,
+Drug metabolism,1557,NA,173,0,395,NA,
+Drug metabolism,1557,NA,173,0,396,NA,
+Drug metabolism,1557,NA,173,0,397,NA,
+Drug metabolism,1557,NA,173,0,398,NA,
+Drug metabolism,1557,NA,173,0,399,NA,
+Drug metabolism,1557,NA,173,0,400,NA,
+Drug metabolism,1576,NA,173,0,401,NA,
+Drug metabolism,1576,NA,173,0,402,NA,
+Drug metabolism,1576,NA,173,0,403,NA,
+Drug metabolism,1576,NA,173,0,404,NA,
+Drug metabolism,1576,NA,173,0,405,NA,
+Drug metabolism,1576,NA,173,0,406,NA,
+Drug metabolism,1576,NA,173,0,407,NA,
+Drug metabolism,1576,NA,173,0,408,NA,
+Drug metabolism,1576,NA,173,0,409,NA,
+Drug metabolism,1576,NA,173,0,410,NA,
+Drug metabolism,1576,NA,173,0,411,NA,
+Drug metabolism,1576,NA,173,0,412,NA,
+Drug metabolism,1576,NA,173,0,413,NA,
+Drug metabolism,1576,NA,173,0,414,NA,
+Drug metabolism,1576,NA,173,0,415,NA,
+Drug metabolism,1576,NA,173,0,416,NA,
+Drug metabolism,1576,NA,173,0,417,NA,
+Drug metabolism,1576,NA,173,0,418,NA,
+Drug metabolism,1576,NA,173,0,419,NA,
+Drug metabolism,1576,NA,173,0,420,NA,
+Drug metabolism,1576,NA,173,0,421,NA,
+Drug metabolism,1576,NA,173,0,422,NA,
+Drug metabolism,1576,NA,173,0,423,NA,
+Drug metabolism,1576,NA,173,0,424,NA,
+Drug metabolism,1576,NA,173,0,425,NA,
+Drug metabolism,1576,NA,173,0,426,NA,
+Drug metabolism,1576,NA,173,0,427,NA,
+Drug metabolism,1576,NA,173,0,428,NA,
+Drug metabolism,1576,NA,173,0,429,NA,
+Drug metabolism,1576,NA,173,0,430,NA,
+Drug metabolism,1576,NA,173,0,431,NA,
+Drug metabolism,1576,NA,173,0,432,NA,
+Drug metabolism,1576,NA,173,0,433,NA,
+Drug metabolism,1576,NA,173,0,434,NA,
+Drug metabolism,1576,NA,173,0,435,NA,
+Drug metabolism,1576,NA,173,0,436,NA,
+Drug metabolism,1576,NA,173,0,437,NA,
+Drug metabolism,1576,NA,173,0,438,NA,
+Drug metabolism,1576,NA,173,0,439,NA,
+Drug metabolism,1576,NA,173,0,440,NA,
+Drug metabolism,1576,NA,173,0,441,NA,
+Drug metabolism,1576,NA,173,0,442,NA,
+Drug metabolism,1576,NA,173,0,443,NA,
+Drug metabolism,1576,NA,173,0,444,NA,
+Drug metabolism,1548,NA,173,0,445,NA,
+Drug metabolism,1562,NA,173,0,446,NA,
+Drug metabolism,1558,NA,173,0,447,NA,
+Drug metabolism,1558,NA,173,0,448,NA,
+Drug metabolism,1558,NA,173,0,449,NA,
+Drug metabolism,1558,NA,173,0,450,NA,
+Drug metabolism,1558,NA,173,0,451,NA,
+Drug metabolism,1558,NA,173,0,452,NA,
+Drug metabolism,1558,NA,173,0,453,NA,
+Drug metabolism,1558,NA,173,0,454,NA,
+Drug metabolism,1558,NA,173,0,455,NA,
+Drug metabolism,1558,NA,173,0,456,NA,
+Drug metabolism,1558,NA,173,0,457,NA,
+Drug metabolism,1558,NA,173,0,458,NA,
+Drug metabolism,1558,NA,173,0,459,NA,
+Drug metabolism,1558,NA,173,0,460,NA,
+Drug metabolism,1558,NA,173,0,461,NA,
+Drug metabolism,1558,NA,173,0,462,NA,
+Drug metabolism,1558,NA,173,0,463,NA,
+Drug metabolism,1558,NA,173,0,464,NA,
+Drug metabolism,1558,NA,173,0,465,NA,
+Drug metabolism,1558,NA,173,0,466,NA,
+Drug metabolism,1558,NA,173,0,467,NA,
+Drug metabolism,1558,NA,173,0,468,NA,
+Drug metabolism,1558,NA,173,0,469,NA,
+Drug metabolism,1558,NA,173,0,470,NA,
+Drug metabolism,1558,NA,173,0,471,NA,
+Drug metabolism,1559,NA,173,0,472,NA,
+Drug metabolism,1559,NA,173,0,473,NA,
+Drug metabolism,1559,NA,173,0,474,NA,
+Drug metabolism,1559,NA,173,0,475,NA,
+Drug metabolism,1559,NA,173,0,476,NA,
+Drug metabolism,1559,NA,173,0,477,NA,
+Drug metabolism,1559,NA,173,0,478,NA,
+Drug metabolism,1559,NA,173,0,479,NA,
+Drug metabolism,1559,NA,173,0,480,NA,
+Drug metabolism,1559,NA,173,0,481,NA,
+Drug metabolism,1559,NA,173,0,482,NA,
+Drug metabolism,1559,NA,173,0,483,NA,
+Drug metabolism,1559,NA,173,0,484,NA,
+Drug metabolism,1559,NA,173,0,485,NA,
+Drug metabolism,1559,NA,173,0,486,NA,
+Drug metabolism,1559,NA,173,0,487,NA,
+Drug metabolism,1559,NA,173,0,488,NA,
+Drug metabolism,1559,NA,173,0,489,NA,
+Drug metabolism,1559,NA,173,0,490,NA,
+Drug metabolism,1559,NA,173,0,491,NA,
+Drug metabolism,1559,NA,173,0,492,NA,
+Drug metabolism,1559,NA,173,0,493,NA,
+Drug metabolism,1565,NA,173,0,494,NA,
+Drug metabolism,1565,NA,173,0,495,NA,
+Drug metabolism,1565,NA,173,0,496,NA,
+Drug metabolism,1565,NA,173,0,497,NA,
+Drug metabolism,1565,NA,173,0,498,NA,
+Drug metabolism,1565,NA,173,0,499,NA,
+Drug metabolism,1565,NA,173,0,500,NA,
+Drug metabolism,1565,NA,173,0,501,NA,
+Drug metabolism,1577,NA,173,0,502,NA,
+Drug metabolism,1577,NA,173,0,503,NA,
+Drug metabolism,1577,NA,173,0,504,NA,
+Drug metabolism,1577,NA,173,0,505,NA,
+Drug metabolism,1577,NA,173,0,506,NA,
+Drug metabolism,1577,NA,173,0,507,NA,
+Drug metabolism,1577,NA,173,0,508,NA,
+Drug metabolism,1577,NA,173,0,509,NA,
+Drug metabolism,1577,NA,173,0,510,NA,
+Drug metabolism,1577,NA,173,0,511,NA,
+Drug metabolism,1577,NA,173,0,512,NA,
+Drug metabolism,1577,NA,173,0,513,NA,
+Drug metabolism,1577,NA,173,0,514,NA,
+Drug metabolism,1577,NA,173,0,515,NA,
+Drug metabolism,1577,NA,173,0,516,NA,
+Drug metabolism,1577,NA,173,0,517,NA,
+Drug metabolism,1577,NA,173,0,518,NA,
+Drug metabolism,1577,NA,173,0,519,NA,
+Drug metabolism,1577,NA,173,0,520,NA,
+Drug metabolism,1577,NA,173,0,521,NA,
+Drug metabolism,1577,NA,173,0,522,NA,
+Drug metabolism,1577,NA,173,0,523,NA,
+Drug metabolism,1577,NA,173,0,524,NA,
+Drug metabolism,1577,NA,173,0,525,NA,
+Drug metabolism,4051,NA,173,0,526,NA,
+Drug metabolism,8529,NA,173,0,527,NA,
+Drug metabolism,10965,NA,173,0,528,NA,
+Drug metabolism,10005,NA,173,0,529,NA,
+Drug metabolism,122970,NA,173,0,530,NA,
+Drug metabolism,54576,NA,173,3,531,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr
+Drug metabolism,54576,NA,173,3,532,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr
+Drug metabolism,54576,NA,173,3,533,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr
+Drug metabolism,54575,NA,173,1,534,NA,LSTNM7hr
+Drug metabolism,54575,NA,173,1,535,NA,LSTNM7hr
+Drug metabolism,54578,NA,173,3,536,NA,ACMPGLUChr; GLC3MEACPhr; PTVSTGLUChc
+Drug metabolism,54578,NA,173,3,537,NA,ACMPGLUChr; GLC3MEACPhr; PTVSTGLUChc
+Drug metabolism,54578,NA,173,3,538,NA,ACMPGLUChr; GLC3MEACPhr; PTVSTGLUChc
+Drug metabolism,54600,NA,173,3,539,NA,ACMPGLUChr; GLC3MEACPhr; LSTNM7hr
+Drug metabolism,54600,NA,173,3,540,NA,ACMPGLUChr; GLC3MEACPhr; LSTNM7hr
+Drug metabolism,54600,NA,173,3,541,NA,ACMPGLUChr; GLC3MEACPhr; LSTNM7hr
+Drug metabolism,54600,NA,173,3,542,NA,ACMPGLUChr; GLC3MEACPhr; LSTNM7hr
+Drug metabolism,54600,NA,173,3,543,NA,ACMPGLUChr; GLC3MEACPhr; LSTNM7hr
+Drug metabolism,54600,NA,173,3,544,NA,ACMPGLUChr; GLC3MEACPhr; LSTNM7hr
+Drug metabolism,54600,NA,173,3,545,NA,ACMPGLUChr; GLC3MEACPhr; LSTNM7hr
+Drug metabolism,54600,NA,173,3,546,NA,ACMPGLUChr; GLC3MEACPhr; LSTNM7hr
+Drug metabolism,54600,NA,173,3,547,NA,ACMPGLUChr; GLC3MEACPhr; LSTNM7hr
+Drug metabolism,54658,UGT1A1,173,9,1,Scutellarein,ACMPGLUChr; ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; GLC3MEACPhr; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54658,UGT1A1,173,9,1,Scutellarein,ACMPGLUChr; ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; GLC3MEACPhr; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54658,UGT1A1,173,9,1,Scutellarein,ACMPGLUChr; ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; GLC3MEACPhr; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54658,UGT1A1,173,9,1,Scutellarein,ACMPGLUChr; ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; GLC3MEACPhr; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54658,UGT1A1,173,9,1,Scutellarein,ACMPGLUChr; ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; GLC3MEACPhr; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54658,UGT1A1,173,9,1,Scutellarein,ACMPGLUChr; ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; GLC3MEACPhr; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54658,UGT1A1,173,9,1,Scutellarein,ACMPGLUChr; ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; GLC3MEACPhr; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54658,UGT1A1,173,9,1,Scutellarein,ACMPGLUChr; ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; GLC3MEACPhr; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54658,UGT1A1,173,9,1,Scutellarein,ACMPGLUChr; ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; GLC3MEACPhr; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,557,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,558,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,559,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,560,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,561,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,562,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,563,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,564,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,565,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,566,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,567,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,568,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,569,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,570,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54659,NA,173,7,571,NA,ATVACYLGLUChc; ATVLACGLCURhc; CVM1GLUChc; CVM23GLUChc; LSTNM7hr; PTVSTGLUChc; SMVGLUChep
+Drug metabolism,54577,NA,173,1,572,NA,LSTNM7hr
+Drug metabolism,54657,NA,173,4,573,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,54657,NA,173,4,574,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,54657,NA,173,4,575,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,54657,NA,173,4,576,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,54657,NA,173,4,577,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,54657,NA,173,4,578,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,54657,NA,173,4,579,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,54657,NA,173,4,580,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,54657,NA,173,4,581,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,7364,NA,173,4,582,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,7364,NA,173,4,583,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,7364,NA,173,4,584,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,7364,NA,173,4,585,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,7364,NA,173,4,586,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,7364,NA,173,4,587,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,7364,NA,173,4,588,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,7364,NA,173,4,589,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,7364,NA,173,4,590,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,7364,NA,173,4,591,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,7364,NA,173,4,592,NA,ATVACYLGLUChc; ATVLACGLCURhc; LSTNM7hr; PTVSTGLUChc
+Drug metabolism,7367,NA,173,1,593,NA,LSTNM7hr
+Drug metabolism,7363,NA,173,0,594,NA,
+Drug metabolism,7363,NA,173,0,595,NA,
+Drug metabolism,7498,NA,173,0,596,NA,
+Drug metabolism,37,NA,173,0,597,NA,
+Drug metabolism,10864,NA,173,0,598,NA,
+Drug metabolism,10864,NA,173,0,599,NA,
+Drug metabolism,9356,NA,173,0,600,NA,
+Drug metabolism,9429,NA,173,0,601,NA,
+Drug metabolism,9429,NA,173,0,602,NA,
+Drug metabolism,9429,NA,173,0,603,NA,
+Drug metabolism,9429,NA,173,0,604,NA,
+Drug metabolism,9429,NA,173,0,605,NA,
+Drug metabolism,9429,NA,173,0,606,NA,
+Drug metabolism,9429,NA,173,0,607,NA,
+Drug metabolism,9429,NA,173,0,608,NA,
+Drug metabolism,9429,NA,173,0,609,NA,
+Drug metabolism,9429,NA,173,0,610,NA,
+Drug metabolism,9429,NA,173,0,611,NA,
+Drug metabolism,9429,NA,173,0,612,NA,
+Drug metabolism,9429,NA,173,0,613,NA,
+Drug metabolism,9429,NA,173,0,614,NA,
+Drug metabolism,9429,NA,173,0,615,NA,
+Drug metabolism,9429,NA,173,0,616,NA,
+Drug metabolism,9429,NA,173,0,617,NA,
+Drug metabolism,9429,NA,173,0,618,NA,
+Drug metabolism,9429,NA,173,0,619,NA,
+Drug metabolism,9429,NA,173,0,620,NA,
+Drug metabolism,5243,NA,173,0,621,NA,
+Drug metabolism,5243,NA,173,0,622,NA,
+Drug metabolism,5243,NA,173,0,623,NA,
+Drug metabolism,5243,NA,173,0,624,NA,
+Drug metabolism,5243,NA,173,0,625,NA,
+Drug metabolism,5243,NA,173,0,626,NA,
+Drug metabolism,5243,NA,173,0,627,NA,
+Drug metabolism,5243,NA,173,0,628,NA,
+Drug metabolism,5243,NA,173,0,629,NA,
+Drug metabolism,5243,NA,173,0,630,NA,
+Drug metabolism,5243,NA,173,0,631,NA,
+Drug metabolism,5243,NA,173,0,632,NA,
+Drug metabolism,5243,NA,173,0,633,NA,
+Drug metabolism,5243,NA,173,0,634,NA,
+Drug metabolism,5243,NA,173,0,635,NA,
+Drug metabolism,5243,NA,173,0,636,NA,
+Drug metabolism,5243,NA,173,0,637,NA,
+Drug metabolism,5243,NA,173,0,638,NA,
+Drug metabolism,5243,NA,173,0,639,NA,
+Drug metabolism,5243,NA,173,0,640,NA,
+Drug metabolism,26027,NA,173,0,641,NA,
+Drug metabolism,5446,NA,173,0,642,NA,
+Drug metabolism,5446,NA,173,0,643,NA,
+Drug metabolism,5446,NA,173,0,644,NA,
+Drug metabolism,5446,NA,173,0,645,NA,
+Drug metabolism,5446,NA,173,0,646,NA,
+Drug metabolism,5446,NA,173,0,647,NA,
+Drug metabolism,5446,NA,173,0,648,NA,
+Drug metabolism,5446,NA,173,0,649,NA,
+Drug metabolism,5446,NA,173,0,650,NA,
+Drug metabolism,5446,NA,173,0,651,NA,
+Drug metabolism,5446,NA,173,0,652,NA,
+Drug metabolism,5446,NA,173,0,653,NA,
+Drug metabolism,5446,NA,173,0,654,NA,
+Drug metabolism,5446,NA,173,0,655,NA,
+Glutamate metabolism,18,NA,14,0,656,NA,
+Glutamate metabolism,18,NA,14,0,657,NA,
+Glutamate metabolism,2571,NA,14,0,658,NA,
+Glutamate metabolism,2572,NA,14,0,659,NA,
+Glutamate metabolism,2571,NA,14,0,660,NA,
+Glutamate metabolism,8659,NA,14,0,661,NA,
+Glutamate metabolism,8659,NA,14,0,662,NA,
+Glutamate metabolism,2875,NA,14,0,663,NA,
+Glutamate metabolism,84706,NA,14,0,664,NA,
+Glutamate metabolism,1373,NA,14,0,665,NA,
+Glutamate metabolism,1373,NA,14,0,666,NA,
+Glutamate metabolism,2271,NA,14,0,667,NA,
+Glutamate metabolism,7915,ALDH5A1,14,1,1,Scutellarein,r0178
+Glutamate metabolism,2747,NA,14,0,669,NA,
+Glutamate metabolism,2747,NA,14,0,670,NA,
+Glutamate metabolism,2746,NA,14,0,671,NA,
+Glutamate metabolism,2746,NA,14,0,672,NA,
+Glutamate metabolism,2744,NA,14,0,673,NA,
+Glutamate metabolism,27165,NA,14,0,674,NA,
+Glutamate metabolism,27165,NA,14,0,675,NA,
+Glutamate metabolism,27165,NA,14,0,676,NA,
+Glutamate metabolism,2936,NA,14,0,677,NA,
+Glutamate metabolism,2936,NA,14,0,678,NA,
+Glutamate metabolism,2752,NA,14,0,679,NA,
+Glutamate metabolism,51557,NA,14,0,680,NA,
+Glycosphingolipid metabolism,28,NA,62,0,681,NA,
+Glycosphingolipid metabolism,28,NA,62,0,682,NA,
+Glycosphingolipid metabolism,79369,NA,62,0,683,NA,
+Glycosphingolipid metabolism,10678,NA,62,0,684,NA,
+Glycosphingolipid metabolism,11041,NA,62,0,685,NA,
+Glycosphingolipid metabolism,10331,NA,62,0,686,NA,
+Glycosphingolipid metabolism,3073,NA,62,0,687,NA,
+Glycosphingolipid metabolism,3073,NA,62,0,688,NA,
+Glycosphingolipid metabolism,3073,NA,62,0,689,NA,
+Glycosphingolipid metabolism,3073,NA,62,0,690,NA,
+Glycosphingolipid metabolism,3073,NA,62,0,691,NA,
+Glycosphingolipid metabolism,3074,NA,62,0,692,NA,
+Glycosphingolipid metabolism,3074,NA,62,0,693,NA,
+Glycosphingolipid metabolism,3074,NA,62,0,694,NA,
+Glycosphingolipid metabolism,3074,NA,62,0,695,NA,
+Glycosphingolipid metabolism,3074,NA,62,0,696,NA,
+Glycosphingolipid metabolism,8706,NA,62,0,697,NA,
+Glycosphingolipid metabolism,8706,NA,62,0,698,NA,
+Glycosphingolipid metabolism,8705,NA,62,0,699,NA,
+Glycosphingolipid metabolism,8705,NA,62,0,700,NA,
+Glycosphingolipid metabolism,8705,NA,62,0,701,NA,
+Glycosphingolipid metabolism,10317,NA,62,0,702,NA,
+Glycosphingolipid metabolism,84002,NA,62,0,703,NA,
+Glycosphingolipid metabolism,2523,NA,62,0,704,NA,
+Glycosphingolipid metabolism,2523,NA,62,0,705,NA,
+Glycosphingolipid metabolism,2523,NA,62,0,706,NA,
+Glycosphingolipid metabolism,2525,NA,62,0,707,NA,
+Glycosphingolipid metabolism,2525,NA,62,0,708,NA,
+Glycosphingolipid metabolism,2525,NA,62,0,709,NA,
+Glycosphingolipid metabolism,10690,NA,62,0,710,NA,
+Glycosphingolipid metabolism,10690,NA,62,0,711,NA,
+Glycosphingolipid metabolism,8703,NA,62,0,712,NA,
+Glycosphingolipid metabolism,8703,NA,62,0,713,NA,
+Glycosphingolipid metabolism,8704,NA,62,0,714,NA,
+Glycosphingolipid metabolism,8704,NA,62,0,715,NA,
+Glycosphingolipid metabolism,2683,NA,62,0,716,NA,
+Glycosphingolipid metabolism,2683,NA,62,0,717,NA,
+Glycosphingolipid metabolism,2720,NA,62,0,718,NA,
+Glycosphingolipid metabolism,2720,NA,62,0,719,NA,
+Glycosphingolipid metabolism,4758,NA,62,2,720,NA,HMR_0825; HMR_0847
+Glycosphingolipid metabolism,4758,NA,62,2,721,NA,HMR_0825; HMR_0847
+Glycosphingolipid metabolism,2581,NA,62,0,722,NA,
+Glycosphingolipid metabolism,2581,NA,62,0,723,NA,
+Glycosphingolipid metabolism,2583,NA,62,0,724,NA,
+Glycosphingolipid metabolism,2583,NA,62,0,725,NA,
+Glycosphingolipid metabolism,2583,NA,62,0,726,NA,
+Glycosphingolipid metabolism,26301,NA,62,0,727,NA,
+Glycosphingolipid metabolism,2651,NA,62,0,728,NA,
+Glycosphingolipid metabolism,2717,NA,62,0,729,NA,
+Glycosphingolipid metabolism,3938,NA,62,0,730,NA,
+Glycosphingolipid metabolism,3938,NA,62,0,731,NA,
+Glycosphingolipid metabolism,4668,NA,62,0,732,NA,
+Glycosphingolipid metabolism,6484,NA,62,0,733,NA,
+Glycosphingolipid metabolism,6484,NA,62,0,734,NA,
+Glycosphingolipid metabolism,6484,NA,62,0,735,NA,
+Glycosphingolipid metabolism,6484,NA,62,0,736,NA,
+Glycosphingolipid metabolism,6482,NA,62,0,737,NA,
+Glycosphingolipid metabolism,6482,NA,62,0,738,NA,
+Glycosphingolipid metabolism,6482,NA,62,0,739,NA,
+Glycosphingolipid metabolism,6482,NA,62,0,740,NA,
+Glycosphingolipid metabolism,6483,NA,62,0,741,NA,
+Glycosphingolipid metabolism,6483,NA,62,0,742,NA,
+Glycosphingolipid metabolism,6483,NA,62,0,743,NA,
+Glycosphingolipid metabolism,6483,NA,62,0,744,NA,
+Glycosphingolipid metabolism,8869,NA,62,0,745,NA,
+Glycosphingolipid metabolism,8869,NA,62,0,746,NA,
+Glycosphingolipid metabolism,8869,NA,62,0,747,NA,
+Glycosphingolipid metabolism,10402,NA,62,0,748,NA,
+Glycosphingolipid metabolism,10402,NA,62,0,749,NA,
+Glycosphingolipid metabolism,10610,NA,62,0,750,NA,
+Glycosphingolipid metabolism,256435,NA,62,0,751,NA,
+Glycosphingolipid metabolism,30815,NA,62,0,752,NA,
+Glycosphingolipid metabolism,30815,NA,62,0,753,NA,
+Glycosphingolipid metabolism,81849,NA,62,0,754,NA,
+Glycosphingolipid metabolism,6489,NA,62,0,755,NA,
+Glycosphingolipid metabolism,6489,NA,62,0,756,NA,
+Glycosphingolipid metabolism,6489,NA,62,0,757,NA,
+Glycosphingolipid metabolism,6489,NA,62,0,758,NA,
+Glycosphingolipid metabolism,6489,NA,62,0,759,NA,
+Glycosphingolipid metabolism,6489,NA,62,0,760,NA,
+Glycosphingolipid metabolism,6489,NA,62,0,761,NA,
+Glycosphingolipid metabolism,6489,NA,62,0,762,NA,
+Glycosphingolipid metabolism,29906,NA,62,0,763,NA,
+Glycosphingolipid metabolism,29906,NA,62,0,764,NA,
+Glycosphingolipid metabolism,29906,NA,62,0,765,NA,
+Glycosphingolipid metabolism,29906,NA,62,0,766,NA,
+Glycosphingolipid metabolism,9331,NA,62,0,767,NA,
+Glycosphingolipid metabolism,9331,NA,62,0,768,NA,
+Glycosphingolipid metabolism,7368,NA,62,0,769,NA,
+Glycosphingolipid metabolism,2760,NA,62,0,770,NA,
+Glycosphingolipid metabolism,4759,NEU2,62,2,1,Scutellarein,HMR_0825; HMR_0847
+Glycosphingolipid metabolism,4759,NEU2,62,2,1,Scutellarein,HMR_0825; HMR_0847
+Glycosphingolipid metabolism,10825,NA,62,2,773,NA,HMR_0825; HMR_0847
+Glycosphingolipid metabolism,10825,NA,62,2,774,NA,HMR_0825; HMR_0847
+Glycosphingolipid metabolism,8702,NA,62,0,775,NA,
+Glycosphingolipid metabolism,8702,NA,62,0,776,NA,
+Glycosphingolipid metabolism,8707,NA,62,0,777,NA,
+Glycosphingolipid metabolism,8708,NA,62,0,778,NA,
+Glycosphingolipid metabolism,2529,NA,62,0,779,NA,
+Glycosphingolipid metabolism,2526,NA,62,0,780,NA,
+Glycosphingolipid metabolism,2526,NA,62,0,781,NA,
+Glycosphingolipid metabolism,284004,NA,62,0,782,NA,
+Glycosphingolipid metabolism,284004,NA,62,0,783,NA,
+Glycosphingolipid metabolism,284004,NA,62,0,784,NA,
+Glycosphingolipid metabolism,284004,NA,62,0,785,NA,
+Glycosphingolipid metabolism,284004,NA,62,0,786,NA,
+Glycosphingolipid metabolism,79411,NA,62,0,787,NA,
+Glycosphingolipid metabolism,79411,NA,62,0,788,NA,
+Glycosphingolipid metabolism,27090,NA,62,0,789,NA,
+Glycosphingolipid metabolism,129807,NA,62,2,790,NA,HMR_0825; HMR_0847
+Glycosphingolipid metabolism,129807,NA,62,2,791,NA,HMR_0825; HMR_0847
+Glycosphingolipid metabolism,2524,NA,62,0,792,NA,
+Glycosphingolipid metabolism,2524,NA,62,0,793,NA,
+Glycosphingolipid metabolism,2524,NA,62,0,794,NA,
+Glycosphingolipid metabolism,2527,NA,62,0,795,NA,
+Glycosphingolipid metabolism,2527,NA,62,0,796,NA,
+Glycosphingolipid metabolism,2527,NA,62,0,797,NA,
+Glycosphingolipid metabolism,2528,NA,62,0,798,NA,
+Glycosphingolipid metabolism,2528,NA,62,0,799,NA,
+Glycosphingolipid metabolism,2528,NA,62,0,800,NA,
+Glyoxylate and dicarboxylate metabolism,92483,NA,10,0,801,NA,
+Glyoxylate and dicarboxylate metabolism,92483,NA,10,0,802,NA,
+Glyoxylate and dicarboxylate metabolism,3948,NA,10,0,803,NA,
+Glyoxylate and dicarboxylate metabolism,3948,NA,10,0,804,NA,
+Glyoxylate and dicarboxylate metabolism,55293,NA,10,0,805,NA,
+Glyoxylate and dicarboxylate metabolism,3945,NA,10,0,806,NA,
+Glyoxylate and dicarboxylate metabolism,3945,NA,10,0,807,NA,
+Glyoxylate and dicarboxylate metabolism,3939,NA,10,0,808,NA,
+Glyoxylate and dicarboxylate metabolism,3939,NA,10,0,809,NA,
+Glyoxylate and dicarboxylate metabolism,160287,NA,10,0,810,NA,
+Glyoxylate and dicarboxylate metabolism,160287,NA,10,0,811,NA,
+Glyoxylate and dicarboxylate metabolism,3948,NA,10,0,812,NA,
+Glyoxylate and dicarboxylate metabolism,3948,NA,10,0,813,NA,
+Glyoxylate and dicarboxylate metabolism,218,NA,10,0,814,NA,
+Glyoxylate and dicarboxylate metabolism,222,NA,10,0,815,NA,
+Glyoxylate and dicarboxylate metabolism,220,NA,10,0,816,NA,
+Glyoxylate and dicarboxylate metabolism,221,NA,10,0,817,NA,
+Glyoxylate and dicarboxylate metabolism,8659,NA,10,1,818,NA,GCALDDm
+Glyoxylate and dicarboxylate metabolism,8659,NA,10,1,819,NA,GCALDDm
+Glyoxylate and dicarboxylate metabolism,216,NA,10,0,820,NA,
+Glyoxylate and dicarboxylate metabolism,8854,NA,10,0,821,NA,
+Glyoxylate and dicarboxylate metabolism,501,NA,10,0,822,NA,
+Glyoxylate and dicarboxylate metabolism,8854,NA,10,0,823,NA,
+Glyoxylate and dicarboxylate metabolism,223,NA,10,0,824,NA,
+Glyoxylate and dicarboxylate metabolism,224,NA,10,0,825,NA,
+Glyoxylate and dicarboxylate metabolism,8854,NA,10,0,826,NA,
+Glyoxylate and dicarboxylate metabolism,219,NA,10,1,827,NA,GCALDDm
+Glyoxylate and dicarboxylate metabolism,217,NA,10,1,828,NA,GCALDDm
+Glyoxylate and dicarboxylate metabolism,226,NA,10,0,829,NA,
+Glyoxylate and dicarboxylate metabolism,229,NA,10,0,830,NA,
+Glyoxylate and dicarboxylate metabolism,226,NA,10,0,831,NA,
+Glyoxylate and dicarboxylate metabolism,230,NA,10,0,832,NA,
+Glyoxylate and dicarboxylate metabolism,226,NA,10,0,833,NA,
+Glyoxylate and dicarboxylate metabolism,5832,NA,10,1,834,NA,GCALDDm
+Glyoxylate and dicarboxylate metabolism,4329,NA,10,1,835,NA,GCALDDm
+Glyoxylate and dicarboxylate metabolism,7915,ALDH5A1,10,1,1,Scutellarein,GCALDDm
+Glyoxylate and dicarboxylate metabolism,7915,ALDH5A1,10,1,1,Scutellarein,GCALDDm
+Glyoxylate and dicarboxylate metabolism,54363,NA,10,0,838,NA,
+Glyoxylate and dicarboxylate metabolism,54363,NA,10,0,839,NA,
+Glyoxylate and dicarboxylate metabolism,51179,NA,10,0,840,NA,
+Glyoxylate and dicarboxylate metabolism,51179,NA,10,0,841,NA,
+Glyoxylate and dicarboxylate metabolism,51179,NA,10,0,842,NA,
+Glyoxylate and dicarboxylate metabolism,51179,NA,10,0,843,NA,
+Glyoxylate and dicarboxylate metabolism,9380,NA,10,0,844,NA,
+Glyoxylate and dicarboxylate metabolism,9380,NA,10,0,845,NA,
+Glyoxylate and dicarboxylate metabolism,197257,NA,10,0,846,NA,
+Glyoxylate and dicarboxylate metabolism,197257,NA,10,0,847,NA,
+Glyoxylate and dicarboxylate metabolism,197257,NA,10,0,848,NA,
+Glyoxylate and dicarboxylate metabolism,197257,NA,10,0,849,NA,
+Glyoxylate and dicarboxylate metabolism,3795,NA,10,0,850,NA,
+Glyoxylate and dicarboxylate metabolism,3795,NA,10,0,851,NA,
+Linoleate metabolism,1571,NA,4,1,852,NA,HMR_2457
+Linoleate metabolism,247,NA,4,0,853,NA,
+Linoleate metabolism,246,NA,4,0,854,NA,
+Linoleate metabolism,11283,NA,4,1,855,NA,HMR_2457
+Linoleate metabolism,1557,NA,4,1,856,NA,HMR_2457
+Linoleate metabolism,1543,CYP1A1,4,1,1,Scutellarein,HMR_2457
+Linoleate metabolism,1545,CYP1B1,4,1,1,Scutellarein,HMR_2457
+Linoleate metabolism,1544,NA,4,1,859,NA,HMR_2457
+Linoleate metabolism,1588,NA,4,1,860,NA,HMR_2457
+Linoleate metabolism,1576,NA,4,1,861,NA,HMR_2457
+Linoleate metabolism,1553,NA,4,1,862,NA,HMR_2457
+Linoleate metabolism,1548,NA,4,1,863,NA,HMR_2457
+Linoleate metabolism,1562,NA,4,1,864,NA,HMR_2457
+Linoleate metabolism,1558,NA,4,1,865,NA,HMR_2457
+Linoleate metabolism,1559,NA,4,1,866,NA,HMR_2457
+Linoleate metabolism,1565,NA,4,1,867,NA,HMR_2457
+Linoleate metabolism,1572,NA,4,1,868,NA,HMR_2457
+Linoleate metabolism,64816,NA,4,1,869,NA,HMR_2457
+Linoleate metabolism,1577,NA,4,1,870,NA,HMR_2457
+Linoleate metabolism,1551,NA,4,1,871,NA,HMR_2457
+Linoleate metabolism,66002,NA,4,1,872,NA,HMR_2457
+Linoleate metabolism,1580,NA,4,1,873,NA,HMR_2457
+Linoleate metabolism,1555,NA,4,1,874,NA,HMR_2457
+Linoleate metabolism,1549,NA,4,1,875,NA,HMR_2457
+Linoleate metabolism,1573,NA,4,1,876,NA,HMR_2457
+Linoleate metabolism,199974,NA,4,1,877,NA,HMR_2457
+Linoleate metabolism,260293,NA,4,1,878,NA,HMR_2457
+Linoleate metabolism,29785,NA,4,1,879,NA,HMR_2457
+Linoleate metabolism,57834,NA,4,1,880,NA,HMR_2457
+Linoleate metabolism,2053,NA,4,0,881,NA,
+Linoleate metabolism,2053,NA,4,0,882,NA,
+Linoleate metabolism,113612,NA,4,1,883,NA,HMR_2457
+Miscellaneous,1743,NA,118,0,884,NA,
+Miscellaneous,4967,NA,118,0,885,NA,
+Miscellaneous,130,NA,118,0,886,NA,
+Miscellaneous,127,NA,118,0,887,NA,
+Miscellaneous,125,NA,118,0,888,NA,
+Miscellaneous,124,NA,118,0,889,NA,
+Miscellaneous,131,NA,118,0,890,NA,
+Miscellaneous,126,NA,118,0,891,NA,
+Miscellaneous,128,NA,118,0,892,NA,
+Miscellaneous,128,NA,118,0,893,NA,
+Miscellaneous,137872,NA,118,0,894,NA,
+Miscellaneous,218,NA,118,0,895,NA,
+Miscellaneous,218,NA,118,0,896,NA,
+Miscellaneous,218,NA,118,0,897,NA,
+Miscellaneous,218,NA,118,0,898,NA,
+Miscellaneous,218,NA,118,0,899,NA,
+Miscellaneous,218,NA,118,0,900,NA,
+Miscellaneous,218,NA,118,0,901,NA,
+Miscellaneous,218,NA,118,0,902,NA,
+Miscellaneous,222,NA,118,0,903,NA,
+Miscellaneous,222,NA,118,0,904,NA,
+Miscellaneous,222,NA,118,0,905,NA,
+Miscellaneous,222,NA,118,0,906,NA,
+Miscellaneous,222,NA,118,0,907,NA,
+Miscellaneous,222,NA,118,0,908,NA,
+Miscellaneous,222,NA,118,0,909,NA,
+Miscellaneous,222,NA,118,0,910,NA,
+Miscellaneous,220,NA,118,0,911,NA,
+Miscellaneous,220,NA,118,0,912,NA,
+Miscellaneous,220,NA,118,0,913,NA,
+Miscellaneous,220,NA,118,0,914,NA,
+Miscellaneous,220,NA,118,0,915,NA,
+Miscellaneous,220,NA,118,0,916,NA,
+Miscellaneous,220,NA,118,0,917,NA,
+Miscellaneous,220,NA,118,0,918,NA,
+Miscellaneous,221,NA,118,0,919,NA,
+Miscellaneous,221,NA,118,0,920,NA,
+Miscellaneous,221,NA,118,0,921,NA,
+Miscellaneous,221,NA,118,0,922,NA,
+Miscellaneous,221,NA,118,0,923,NA,
+Miscellaneous,221,NA,118,0,924,NA,
+Miscellaneous,221,NA,118,0,925,NA,
+Miscellaneous,221,NA,118,0,926,NA,
+Miscellaneous,6817,NA,118,0,927,NA,
+Miscellaneous,3030,NA,118,0,928,NA,
+Miscellaneous,84532,NA,118,0,929,NA,
+Miscellaneous,84532,NA,118,0,930,NA,
+Miscellaneous,84532,NA,118,0,931,NA,
+Miscellaneous,84532,NA,118,0,932,NA,
+Miscellaneous,84532,NA,118,0,933,NA,
+Miscellaneous,84532,NA,118,0,934,NA,
+Miscellaneous,79611,NA,118,0,935,NA,
+Miscellaneous,79611,NA,118,0,936,NA,
+Miscellaneous,79611,NA,118,0,937,NA,
+Miscellaneous,79611,NA,118,0,938,NA,
+Miscellaneous,51,NA,118,0,939,NA,
+Miscellaneous,50,NA,118,0,940,NA,
+Miscellaneous,50,NA,118,0,941,NA,
+Miscellaneous,48,NA,118,0,942,NA,
+Miscellaneous,48,NA,118,0,943,NA,
+Miscellaneous,55902,NA,118,0,944,NA,
+Miscellaneous,55902,NA,118,0,945,NA,
+Miscellaneous,55902,NA,118,0,946,NA,
+Miscellaneous,55902,NA,118,0,947,NA,
+Miscellaneous,55902,NA,118,0,948,NA,
+Miscellaneous,55902,NA,118,0,949,NA,
+Miscellaneous,212,NA,118,0,950,NA,
+Miscellaneous,212,NA,118,0,951,NA,
+Miscellaneous,211,NA,118,0,952,NA,
+Miscellaneous,211,NA,118,0,953,NA,
+Miscellaneous,59272,NA,118,0,954,NA,
+Miscellaneous,59272,NA,118,0,955,NA,
+Miscellaneous,59272,NA,118,0,956,NA,
+Miscellaneous,59272,NA,118,0,957,NA,
+Miscellaneous,284273,NA,118,0,958,NA,
+Miscellaneous,284273,NA,118,0,959,NA,
+Miscellaneous,10327,NA,118,0,960,NA,
+Miscellaneous,10327,NA,118,0,961,NA,
+Miscellaneous,501,NA,118,0,962,NA,
+Miscellaneous,501,NA,118,0,963,NA,
+Miscellaneous,501,NA,118,0,964,NA,
+Miscellaneous,223,NA,118,0,965,NA,
+Miscellaneous,223,NA,118,0,966,NA,
+Miscellaneous,223,NA,118,0,967,NA,
+Miscellaneous,224,NA,118,0,968,NA,
+Miscellaneous,224,NA,118,0,969,NA,
+Miscellaneous,224,NA,118,0,970,NA,
+Miscellaneous,219,NA,118,0,971,NA,
+Miscellaneous,219,NA,118,0,972,NA,
+Miscellaneous,219,NA,118,0,973,NA,
+Miscellaneous,217,NA,118,0,974,NA,
+Miscellaneous,217,NA,118,0,975,NA,
+Miscellaneous,217,NA,118,0,976,NA,
+Miscellaneous,231,NA,118,0,977,NA,
+Miscellaneous,847,NA,118,0,978,NA,
+Miscellaneous,2538,NA,118,0,979,NA,
+Miscellaneous,57818,NA,118,0,980,NA,
+Miscellaneous,92579,NA,118,0,981,NA,
+Miscellaneous,8824,NA,118,0,982,NA,
+Miscellaneous,6319,NA,118,0,983,NA,
+Miscellaneous,6319,NA,118,0,984,NA,
+Miscellaneous,1892,NA,118,0,985,NA,
+Miscellaneous,1962,NA,118,0,986,NA,
+Miscellaneous,229,NA,118,0,987,NA,
+Miscellaneous,230,NA,118,0,988,NA,
+Miscellaneous,226,NA,118,0,989,NA,
+Miscellaneous,2720,NA,118,0,990,NA,
+Miscellaneous,2720,NA,118,0,991,NA,
+Miscellaneous,2720,NA,118,0,992,NA,
+Miscellaneous,2687,NA,118,0,993,NA,
+Miscellaneous,2687,NA,118,0,994,NA,
+Miscellaneous,2717,NA,118,0,995,NA,
+Miscellaneous,178,NA,118,0,996,NA,
+Miscellaneous,178,NA,118,0,997,NA,
+Miscellaneous,2678,NA,118,0,998,NA,
+Miscellaneous,2678,NA,118,0,999,NA,
+Miscellaneous,763,NA,118,0,1000,NA,
+Miscellaneous,11238,NA,118,0,1001,NA,
+Miscellaneous,51478,NA,118,0,1002,NA,
+Miscellaneous,3419,NA,118,2,1003,NA,r0083; r0425
+Miscellaneous,3419,NA,118,2,1004,NA,r0083; r0425
+Miscellaneous,3420,NA,118,2,1005,NA,r0083; r0425
+Miscellaneous,3420,NA,118,2,1006,NA,r0083; r0425
+Miscellaneous,3421,NA,118,2,1007,NA,r0083; r0425
+Miscellaneous,3421,NA,118,2,1008,NA,r0083; r0425
+Miscellaneous,3417,IDH1,118,7,1,Scutellarein,r0083; r0084; r0423; r0424; r0425; r0082; r0422
+Miscellaneous,3417,IDH1,118,7,1,Scutellarein,r0083; r0084; r0423; r0424; r0425; r0082; r0422
+Miscellaneous,3417,IDH1,118,7,1,Scutellarein,r0083; r0084; r0423; r0424; r0425; r0082; r0422
+Miscellaneous,3417,IDH1,118,7,1,Scutellarein,r0083; r0084; r0423; r0424; r0425; r0082; r0422
+Miscellaneous,3417,IDH1,118,7,1,Scutellarein,r0083; r0084; r0423; r0424; r0425; r0082; r0422
+Miscellaneous,3417,IDH1,118,7,1,Scutellarein,r0083; r0084; r0423; r0424; r0425; r0082; r0422
+Miscellaneous,3417,IDH1,118,7,1,Scutellarein,r0083; r0084; r0423; r0424; r0425; r0082; r0422
+Miscellaneous,3418,NA,118,6,1016,NA,r0083; r0084; r0423; r0424; r0425; r0422
+Miscellaneous,3418,NA,118,6,1017,NA,r0083; r0084; r0423; r0424; r0425; r0422
+Miscellaneous,3418,NA,118,6,1018,NA,r0083; r0084; r0423; r0424; r0425; r0422
+Miscellaneous,3418,NA,118,6,1019,NA,r0083; r0084; r0423; r0424; r0425; r0422
+Miscellaneous,3418,NA,118,6,1020,NA,r0083; r0084; r0423; r0424; r0425; r0422
+Miscellaneous,3418,NA,118,6,1021,NA,r0083; r0084; r0423; r0424; r0425; r0422
+Miscellaneous,1056,NA,118,0,1022,NA,
+Miscellaneous,1056,NA,118,0,1023,NA,
+Miscellaneous,1056,NA,118,0,1024,NA,
+Miscellaneous,1056,NA,118,0,1025,NA,
+Miscellaneous,1056,NA,118,0,1026,NA,
+Miscellaneous,1056,NA,118,0,1027,NA,
+Miscellaneous,1056,NA,118,0,1028,NA,
+Miscellaneous,1056,NA,118,0,1029,NA,
+Miscellaneous,6476,NA,118,0,1030,NA,
+Miscellaneous,1629,NA,118,0,1031,NA,
+Miscellaneous,1629,NA,118,0,1032,NA,
+Miscellaneous,594,NA,118,0,1033,NA,
+Miscellaneous,594,NA,118,0,1034,NA,
+Miscellaneous,594,NA,118,0,1035,NA,
+Miscellaneous,593,NA,118,0,1036,NA,
+Miscellaneous,593,NA,118,0,1037,NA,
+Miscellaneous,593,NA,118,0,1038,NA,
+Miscellaneous,5161,NA,118,0,1039,NA,
+Miscellaneous,5162,NA,118,0,1040,NA,
+Miscellaneous,1737,NA,118,0,1041,NA,
+Miscellaneous,5160,NA,118,0,1042,NA,
+Miscellaneous,8310,NA,118,0,1043,NA,
+Miscellaneous,8288,NA,118,0,1044,NA,
+Miscellaneous,9588,NA,118,0,1045,NA,
+Miscellaneous,4353,NA,118,0,1046,NA,
+Miscellaneous,6646,NA,118,0,1047,NA,
+Miscellaneous,6646,NA,118,0,1048,NA,
+Miscellaneous,6646,NA,118,0,1049,NA,
+Miscellaneous,6646,NA,118,0,1050,NA,
+Miscellaneous,6646,NA,118,0,1051,NA,
+Miscellaneous,6646,NA,118,0,1052,NA,
+Miscellaneous,6646,NA,118,0,1053,NA,
+Miscellaneous,6646,NA,118,0,1054,NA,
+Miscellaneous,7296,NA,118,0,1055,NA,
+Miscellaneous,7296,NA,118,0,1056,NA,
+Miscellaneous,7296,NA,118,0,1057,NA,
+Miscellaneous,7296,NA,118,0,1058,NA,
+Miscellaneous,7296,NA,118,0,1059,NA,
+Miscellaneous,7296,NA,118,0,1060,NA,
+Miscellaneous,7296,NA,118,0,1061,NA,
+Miscellaneous,7296,NA,118,0,1062,NA,
+Miscellaneous,54658,UGT1A1,118,2,1,Scutellarein,RE2404C; RE2405C
+Miscellaneous,54658,UGT1A1,118,2,1,Scutellarein,RE2404C; RE2405C
+Miscellaneous,1356,NA,118,0,1065,NA,
+Miscellaneous,2512,NA,118,0,1066,NA,
+Miscellaneous,2495,NA,118,0,1067,NA,
+Miscellaneous,94033,NA,118,0,1068,NA,
+Miscellaneous,1727,NA,118,0,1069,NA,
+Miscellaneous,51706,NA,118,0,1070,NA,
+Miscellaneous,51700,NA,118,0,1071,NA,
+Miscellaneous,92086,NA,118,0,1072,NA,
+Miscellaneous,92086,NA,118,0,1073,NA,
+Miscellaneous,728441,NA,118,0,1074,NA,
+Miscellaneous,728441,NA,118,0,1075,NA,
+Miscellaneous,102724197,NA,118,0,1076,NA,
+Miscellaneous,102724197,NA,118,0,1077,NA,
+Miscellaneous,2686,NA,118,0,1078,NA,
+Miscellaneous,2686,NA,118,0,1079,NA,
+Miscellaneous,124975,NA,118,0,1080,NA,
+Miscellaneous,124975,NA,118,0,1081,NA,
+Miscellaneous,91227,NA,118,0,1082,NA,
+Miscellaneous,91227,NA,118,0,1083,NA,
+Miscellaneous,5211,NA,118,0,1084,NA,
+Miscellaneous,5211,NA,118,0,1085,NA,
+Miscellaneous,5211,NA,118,0,1086,NA,
+Miscellaneous,5211,NA,118,0,1087,NA,
+Miscellaneous,249,NA,118,0,1088,NA,
+Miscellaneous,249,NA,118,0,1089,NA,
+Miscellaneous,249,NA,118,0,1090,NA,
+Miscellaneous,57571,NA,118,0,1091,NA,
+Miscellaneous,132158,NA,118,0,1092,NA,
+Miscellaneous,132158,NA,118,0,1093,NA,
+Miscellaneous,641649,NA,118,0,1094,NA,
+Miscellaneous,641649,NA,118,0,1095,NA,
+Miscellaneous,641649,NA,118,0,1096,NA,
+Miscellaneous,79966,NA,118,0,1097,NA,
+Miscellaneous,79966,NA,118,0,1098,NA,
+Miscellaneous,7263,NA,118,0,1099,NA,
+Miscellaneous,26275,NA,118,0,1100,NA,
+Miscellaneous,7389,NA,118,0,1101,NA,
+Miscellaneous,8435,NA,118,0,1102,NA,
+Miscellaneous,8435,NA,118,0,1103,NA,
+Miscellaneous,8435,NA,118,0,1104,NA,
+Miscellaneous,8435,NA,118,0,1105,NA,
+Miscellaneous,8435,NA,118,0,1106,NA,
+Miscellaneous,8435,NA,118,0,1107,NA,
+Miscellaneous,8435,NA,118,0,1108,NA,
+Miscellaneous,8435,NA,118,0,1109,NA,
+Miscellaneous,3988,NA,118,0,1110,NA,
+Miscellaneous,3988,NA,118,0,1111,NA,
+Miscellaneous,3988,NA,118,0,1112,NA,
+Miscellaneous,3988,NA,118,0,1113,NA,
+Miscellaneous,3988,NA,118,0,1114,NA,
+Miscellaneous,3988,NA,118,0,1115,NA,
+Miscellaneous,3988,NA,118,0,1116,NA,
+Miscellaneous,3988,NA,118,0,1117,NA,
+Miscellaneous,771,NA,118,0,1118,NA,
+Miscellaneous,771,NA,118,0,1119,NA,
+Miscellaneous,760,NA,118,0,1120,NA,
+Miscellaneous,760,NA,118,0,1121,NA,
+Miscellaneous,768,NA,118,0,1122,NA,
+Miscellaneous,768,NA,118,0,1123,NA,
+Miscellaneous,23632,NA,118,0,1124,NA,
+Miscellaneous,23632,NA,118,0,1125,NA,
+Miscellaneous,765,NA,118,0,1126,NA,
+Miscellaneous,765,NA,118,0,1127,NA,
+Miscellaneous,759,NA,118,0,1128,NA,
+Miscellaneous,759,NA,118,0,1129,NA,
+Miscellaneous,762,NA,118,0,1130,NA,
+Miscellaneous,762,NA,118,0,1131,NA,
+Miscellaneous,766,NA,118,0,1132,NA,
+Miscellaneous,766,NA,118,0,1133,NA,
+Miscellaneous,767,NA,118,0,1134,NA,
+Miscellaneous,377677,NA,118,0,1135,NA,
+Miscellaneous,377677,NA,118,0,1136,NA,
+Miscellaneous,4025,NA,118,0,1137,NA,
+Miscellaneous,4025,NA,118,0,1138,NA,
+Miscellaneous,1267,NA,118,0,1139,NA,
+Miscellaneous,1215,NA,118,0,1140,NA,
+Miscellaneous,1357,NA,118,0,1141,NA,
+Miscellaneous,1357,NA,118,0,1142,NA,
+Miscellaneous,1358,NA,118,0,1143,NA,
+Miscellaneous,1358,NA,118,0,1144,NA,
+Miscellaneous,57094,NA,118,0,1145,NA,
+Miscellaneous,57094,NA,118,0,1146,NA,
+Miscellaneous,93979,NA,118,0,1147,NA,
+Miscellaneous,93979,NA,118,0,1148,NA,
+Miscellaneous,7177,NA,118,0,1149,NA,
+Miscellaneous,64499,NA,118,0,1150,NA,
+Miscellaneous,23430,NA,118,0,1151,NA,
+Miscellaneous,1636,NA,118,0,1152,NA,
+Miscellaneous,9365,NA,118,0,1153,NA,
+Miscellaneous,9365,NA,118,0,1154,NA,
+Miscellaneous,9365,NA,118,0,1155,NA,
+Miscellaneous,9365,NA,118,0,1156,NA,
+Miscellaneous,761,NA,118,0,1157,NA,
+Miscellaneous,766,NA,118,0,1158,NA,
+Miscellaneous,771,NA,118,0,1159,NA,
+Miscellaneous,221223,NA,118,0,1160,NA,
+Miscellaneous,23491,NA,118,0,1161,NA,
+Miscellaneous,1066,NA,118,0,1162,NA,
+Miscellaneous,1208,NA,118,0,1163,NA,
+Miscellaneous,123688,NA,118,0,1164,NA,
+Miscellaneous,85007,NA,118,0,1165,NA,
+Pyruvate metabolism,3945,NA,28,0,1166,NA,
+Pyruvate metabolism,3939,NA,28,0,1167,NA,
+Pyruvate metabolism,130,NA,28,0,1168,NA,
+Pyruvate metabolism,130,NA,28,0,1169,NA,
+Pyruvate metabolism,130,NA,28,0,1170,NA,
+Pyruvate metabolism,130,NA,28,0,1171,NA,
+Pyruvate metabolism,127,NA,28,0,1172,NA,
+Pyruvate metabolism,127,NA,28,0,1173,NA,
+Pyruvate metabolism,127,NA,28,0,1174,NA,
+Pyruvate metabolism,127,NA,28,0,1175,NA,
+Pyruvate metabolism,125,NA,28,0,1176,NA,
+Pyruvate metabolism,125,NA,28,0,1177,NA,
+Pyruvate metabolism,125,NA,28,0,1178,NA,
+Pyruvate metabolism,125,NA,28,0,1179,NA,
+Pyruvate metabolism,124,NA,28,0,1180,NA,
+Pyruvate metabolism,124,NA,28,0,1181,NA,
+Pyruvate metabolism,124,NA,28,0,1182,NA,
+Pyruvate metabolism,124,NA,28,0,1183,NA,
+Pyruvate metabolism,131,NA,28,0,1184,NA,
+Pyruvate metabolism,131,NA,28,0,1185,NA,
+Pyruvate metabolism,131,NA,28,0,1186,NA,
+Pyruvate metabolism,131,NA,28,0,1187,NA,
+Pyruvate metabolism,126,NA,28,0,1188,NA,
+Pyruvate metabolism,126,NA,28,0,1189,NA,
+Pyruvate metabolism,126,NA,28,0,1190,NA,
+Pyruvate metabolism,126,NA,28,0,1191,NA,
+Pyruvate metabolism,128,NA,28,0,1192,NA,
+Pyruvate metabolism,128,NA,28,0,1193,NA,
+Pyruvate metabolism,128,NA,28,0,1194,NA,
+Pyruvate metabolism,128,NA,28,0,1195,NA,
+Pyruvate metabolism,128,NA,28,0,1196,NA,
+Pyruvate metabolism,137872,NA,28,0,1197,NA,
+Pyruvate metabolism,137872,NA,28,0,1198,NA,
+Pyruvate metabolism,137872,NA,28,0,1199,NA,
+Pyruvate metabolism,137872,NA,28,0,1200,NA,
+Pyruvate metabolism,218,NA,28,0,1201,NA,
+Pyruvate metabolism,218,NA,28,0,1202,NA,
+Pyruvate metabolism,222,NA,28,0,1203,NA,
+Pyruvate metabolism,222,NA,28,0,1204,NA,
+Pyruvate metabolism,220,NA,28,0,1205,NA,
+Pyruvate metabolism,220,NA,28,0,1206,NA,
+Pyruvate metabolism,221,NA,28,0,1207,NA,
+Pyruvate metabolism,221,NA,28,0,1208,NA,
+Pyruvate metabolism,8659,NA,28,1,1209,NA,LCADim
+Pyruvate metabolism,8659,NA,28,1,1210,NA,LCADim
+Pyruvate metabolism,134526,NA,28,0,1211,NA,
+Pyruvate metabolism,134526,NA,28,0,1212,NA,
+Pyruvate metabolism,1571,NA,28,0,1213,NA,
+Pyruvate metabolism,1571,NA,28,0,1214,NA,
+Pyruvate metabolism,284273,NA,28,0,1215,NA,
+Pyruvate metabolism,284273,NA,28,0,1216,NA,
+Pyruvate metabolism,284273,NA,28,0,1217,NA,
+Pyruvate metabolism,284273,NA,28,0,1218,NA,
+Pyruvate metabolism,284273,NA,28,0,1219,NA,
+Pyruvate metabolism,284273,NA,28,0,1220,NA,
+Pyruvate metabolism,284273,NA,28,0,1221,NA,
+Pyruvate metabolism,284273,NA,28,0,1222,NA,
+Pyruvate metabolism,10327,NA,28,0,1223,NA,
+Pyruvate metabolism,10327,NA,28,0,1224,NA,
+Pyruvate metabolism,10327,NA,28,0,1225,NA,
+Pyruvate metabolism,10327,NA,28,0,1226,NA,
+Pyruvate metabolism,10327,NA,28,0,1227,NA,
+Pyruvate metabolism,10327,NA,28,0,1228,NA,
+Pyruvate metabolism,216,NA,28,0,1229,NA,
+Pyruvate metabolism,216,NA,28,0,1230,NA,
+Pyruvate metabolism,8854,NA,28,0,1231,NA,
+Pyruvate metabolism,8854,NA,28,0,1232,NA,
+Pyruvate metabolism,501,NA,28,0,1233,NA,
+Pyruvate metabolism,501,NA,28,0,1234,NA,
+Pyruvate metabolism,8854,NA,28,0,1235,NA,
+Pyruvate metabolism,8854,NA,28,0,1236,NA,
+Pyruvate metabolism,223,NA,28,0,1237,NA,
+Pyruvate metabolism,223,NA,28,0,1238,NA,
+Pyruvate metabolism,224,NA,28,0,1239,NA,
+Pyruvate metabolism,224,NA,28,0,1240,NA,
+Pyruvate metabolism,8854,NA,28,0,1241,NA,
+Pyruvate metabolism,8854,NA,28,0,1242,NA,
+Pyruvate metabolism,219,NA,28,1,1243,NA,LCADim
+Pyruvate metabolism,217,NA,28,1,1244,NA,LCADim
+Pyruvate metabolism,8574,NA,28,0,1245,NA,
+Pyruvate metabolism,8574,NA,28,0,1246,NA,
+Pyruvate metabolism,8574,NA,28,0,1247,NA,
+Pyruvate metabolism,231,NA,28,0,1248,NA,
+Pyruvate metabolism,231,NA,28,0,1249,NA,
+Pyruvate metabolism,231,NA,28,0,1250,NA,
+Pyruvate metabolism,231,NA,28,0,1251,NA,
+Pyruvate metabolism,5832,NA,28,1,1252,NA,LCADim
+Pyruvate metabolism,4329,NA,28,1,1253,NA,LCADim
+Pyruvate metabolism,7915,ALDH5A1,28,1,1,Scutellarein,LCADim
+Pyruvate metabolism,7915,ALDH5A1,28,1,1,Scutellarein,LCADim
+Pyruvate metabolism,9380,NA,28,0,1256,NA,
+Pyruvate metabolism,3029,NA,28,0,1257,NA,
+Pyruvate metabolism,3029,NA,28,0,1258,NA,
+Pyruvate metabolism,197257,NA,28,0,1259,NA,
+Pyruvate metabolism,197257,NA,28,0,1260,NA,
+Pyruvate metabolism,197257,NA,28,0,1261,NA,
+Pyruvate metabolism,197257,NA,28,0,1262,NA,
+Pyruvate metabolism,124637,NA,28,0,1263,NA,
+Pyruvate metabolism,124637,NA,28,0,1264,NA,
+Pyruvate metabolism,4200,NA,28,0,1265,NA,
+Pyruvate metabolism,4200,NA,28,0,1266,NA,
+Pyruvate metabolism,4199,NA,28,0,1267,NA,
+Pyruvate metabolism,10873,NA,28,0,1268,NA,
+Pyruvate metabolism,5091,NA,28,0,1269,NA,
+Pyruvate metabolism,5091,NA,28,0,1270,NA,
+Pyruvate metabolism,84264,NA,28,0,1271,NA,
+Pyruvate metabolism,84264,NA,28,0,1272,NA,
+Pyruvate metabolism,2739,NA,28,0,1273,NA,
+Pyruvate metabolism,57016,NA,28,0,1274,NA,
+Sphingolipid metabolism,2531,NA,121,0,1275,NA,
+Sphingolipid metabolism,53947,NA,121,0,1276,NA,
+Sphingolipid metabolism,53947,NA,121,0,1277,NA,
+Sphingolipid metabolism,51146,NA,121,0,1278,NA,
+Sphingolipid metabolism,9197,NA,121,0,1279,NA,
+Sphingolipid metabolism,9197,NA,121,0,1280,NA,
+Sphingolipid metabolism,9197,NA,121,0,1281,NA,
+Sphingolipid metabolism,9197,NA,121,0,1282,NA,
+Sphingolipid metabolism,79369,NA,121,0,1283,NA,
+Sphingolipid metabolism,10678,NA,121,0,1284,NA,
+Sphingolipid metabolism,146712,NA,121,0,1285,NA,
+Sphingolipid metabolism,374907,NA,121,0,1286,NA,
+Sphingolipid metabolism,93010,NA,121,0,1287,NA,
+Sphingolipid metabolism,10331,NA,121,0,1288,NA,
+Sphingolipid metabolism,10331,NA,121,0,1289,NA,
+Sphingolipid metabolism,10331,NA,121,0,1290,NA,
+Sphingolipid metabolism,10331,NA,121,0,1291,NA,
+Sphingolipid metabolism,10331,NA,121,0,1292,NA,
+Sphingolipid metabolism,10331,NA,121,0,1293,NA,
+Sphingolipid metabolism,10331,NA,121,0,1294,NA,
+Sphingolipid metabolism,10331,NA,121,0,1295,NA,
+Sphingolipid metabolism,10331,NA,121,0,1296,NA,
+Sphingolipid metabolism,3073,NA,121,0,1297,NA,
+Sphingolipid metabolism,3073,NA,121,0,1298,NA,
+Sphingolipid metabolism,3073,NA,121,0,1299,NA,
+Sphingolipid metabolism,3073,NA,121,0,1300,NA,
+Sphingolipid metabolism,3074,NA,121,0,1301,NA,
+Sphingolipid metabolism,3074,NA,121,0,1302,NA,
+Sphingolipid metabolism,3074,NA,121,0,1303,NA,
+Sphingolipid metabolism,3074,NA,121,0,1304,NA,
+Sphingolipid metabolism,410,NA,121,0,1305,NA,
+Sphingolipid metabolism,427,NA,121,0,1306,NA,
+Sphingolipid metabolism,427,NA,121,0,1307,NA,
+Sphingolipid metabolism,427,NA,121,0,1308,NA,
+Sphingolipid metabolism,8706,NA,121,0,1309,NA,
+Sphingolipid metabolism,8706,NA,121,0,1310,NA,
+Sphingolipid metabolism,8706,NA,121,0,1311,NA,
+Sphingolipid metabolism,8706,NA,121,0,1312,NA,
+Sphingolipid metabolism,8705,NA,121,0,1313,NA,
+Sphingolipid metabolism,8705,NA,121,0,1314,NA,
+Sphingolipid metabolism,8705,NA,121,0,1315,NA,
+Sphingolipid metabolism,8705,NA,121,0,1316,NA,
+Sphingolipid metabolism,10317,NA,121,0,1317,NA,
+Sphingolipid metabolism,10317,NA,121,0,1318,NA,
+Sphingolipid metabolism,10317,NA,121,0,1319,NA,
+Sphingolipid metabolism,10317,NA,121,0,1320,NA,
+Sphingolipid metabolism,10317,NA,121,0,1321,NA,
+Sphingolipid metabolism,10317,NA,121,0,1322,NA,
+Sphingolipid metabolism,84002,NA,121,0,1323,NA,
+Sphingolipid metabolism,9488,NA,121,0,1324,NA,
+Sphingolipid metabolism,64781,NA,121,0,1325,NA,
+Sphingolipid metabolism,64781,NA,121,0,1326,NA,
+Sphingolipid metabolism,192134,NA,121,0,1327,NA,
+Sphingolipid metabolism,8560,NA,121,0,1328,NA,
+Sphingolipid metabolism,8560,NA,121,0,1329,NA,
+Sphingolipid metabolism,8560,NA,121,0,1330,NA,
+Sphingolipid metabolism,8560,NA,121,0,1331,NA,
+Sphingolipid metabolism,123099,NA,121,0,1332,NA,
+Sphingolipid metabolism,123099,NA,121,0,1333,NA,
+Sphingolipid metabolism,123099,NA,121,0,1334,NA,
+Sphingolipid metabolism,2523,NA,121,0,1335,NA,
+Sphingolipid metabolism,10690,NA,121,0,1336,NA,
+Sphingolipid metabolism,8703,NA,121,0,1337,NA,
+Sphingolipid metabolism,8704,NA,121,0,1338,NA,
+Sphingolipid metabolism,2683,NA,121,0,1339,NA,
+Sphingolipid metabolism,9334,NA,121,0,1340,NA,
+Sphingolipid metabolism,9514,NA,121,0,1341,NA,
+Sphingolipid metabolism,9514,NA,121,0,1342,NA,
+Sphingolipid metabolism,5476,NA,121,0,1343,NA,
+Sphingolipid metabolism,5476,NA,121,0,1344,NA,
+Sphingolipid metabolism,5476,NA,121,0,1345,NA,
+Sphingolipid metabolism,5476,NA,121,0,1346,NA,
+Sphingolipid metabolism,2720,NA,121,0,1347,NA,
+Sphingolipid metabolism,2720,NA,121,0,1348,NA,
+Sphingolipid metabolism,2720,NA,121,0,1349,NA,
+Sphingolipid metabolism,2720,NA,121,0,1350,NA,
+Sphingolipid metabolism,2720,NA,121,0,1351,NA,
+Sphingolipid metabolism,2720,NA,121,0,1352,NA,
+Sphingolipid metabolism,2588,NA,121,0,1353,NA,
+Sphingolipid metabolism,2588,NA,121,0,1354,NA,
+Sphingolipid metabolism,2588,NA,121,0,1355,NA,
+Sphingolipid metabolism,2588,NA,121,0,1356,NA,
+Sphingolipid metabolism,4758,NA,121,0,1357,NA,
+Sphingolipid metabolism,4758,NA,121,0,1358,NA,
+Sphingolipid metabolism,4758,NA,121,0,1359,NA,
+Sphingolipid metabolism,4758,NA,121,0,1360,NA,
+Sphingolipid metabolism,4758,NA,121,0,1361,NA,
+Sphingolipid metabolism,2581,NA,121,0,1362,NA,
+Sphingolipid metabolism,2583,NA,121,0,1363,NA,
+Sphingolipid metabolism,2583,NA,121,0,1364,NA,
+Sphingolipid metabolism,2583,NA,121,0,1365,NA,
+Sphingolipid metabolism,2583,NA,121,0,1366,NA,
+Sphingolipid metabolism,51809,NA,121,0,1367,NA,
+Sphingolipid metabolism,11285,NA,121,0,1368,NA,
+Sphingolipid metabolism,2629,NA,121,0,1369,NA,
+Sphingolipid metabolism,2629,NA,121,0,1370,NA,
+Sphingolipid metabolism,2629,NA,121,0,1371,NA,
+Sphingolipid metabolism,2629,NA,121,0,1372,NA,
+Sphingolipid metabolism,2629,NA,121,0,1373,NA,
+Sphingolipid metabolism,2629,NA,121,0,1374,NA,
+Sphingolipid metabolism,2629,NA,121,0,1375,NA,
+Sphingolipid metabolism,2629,NA,121,0,1376,NA,
+Sphingolipid metabolism,2629,NA,121,0,1377,NA,
+Sphingolipid metabolism,2629,NA,121,0,1378,NA,
+Sphingolipid metabolism,26301,NA,121,0,1379,NA,
+Sphingolipid metabolism,26301,NA,121,0,1380,NA,
+Sphingolipid metabolism,2717,NA,121,0,1381,NA,
+Sphingolipid metabolism,2717,NA,121,0,1382,NA,
+Sphingolipid metabolism,93183,NA,121,0,1383,NA,
+Sphingolipid metabolism,55650,NA,121,0,1384,NA,
+Sphingolipid metabolism,80235,NA,121,0,1385,NA,
+Sphingolipid metabolism,4668,NA,121,0,1386,NA,
+Sphingolipid metabolism,8612,NA,121,0,1387,NA,
+Sphingolipid metabolism,8612,NA,121,0,1388,NA,
+Sphingolipid metabolism,8612,NA,121,0,1389,NA,
+Sphingolipid metabolism,8611,NA,121,0,1390,NA,
+Sphingolipid metabolism,8611,NA,121,0,1391,NA,
+Sphingolipid metabolism,8611,NA,121,0,1392,NA,
+Sphingolipid metabolism,8611,NA,121,0,1393,NA,
+Sphingolipid metabolism,8613,NA,121,0,1394,NA,
+Sphingolipid metabolism,8613,NA,121,0,1395,NA,
+Sphingolipid metabolism,8613,NA,121,0,1396,NA,
+Sphingolipid metabolism,6483,NA,121,0,1397,NA,
+Sphingolipid metabolism,6483,NA,121,0,1398,NA,
+Sphingolipid metabolism,6483,NA,121,0,1399,NA,
+Sphingolipid metabolism,6483,NA,121,0,1400,NA,
+Sphingolipid metabolism,81537,NA,121,0,1401,NA,
+Sphingolipid metabolism,81537,NA,121,0,1402,NA,
+Sphingolipid metabolism,81537,NA,121,0,1403,NA,
+Sphingolipid metabolism,10558,NA,121,0,1404,NA,
+Sphingolipid metabolism,9517,NA,121,0,1405,NA,
+Sphingolipid metabolism,55304,NA,121,0,1406,NA,
+Sphingolipid metabolism,8879,NA,121,0,1407,NA,
+Sphingolipid metabolism,8879,NA,121,0,1408,NA,
+Sphingolipid metabolism,8869,NA,121,0,1409,NA,
+Sphingolipid metabolism,56848,NA,121,0,1410,NA,
+Sphingolipid metabolism,56848,NA,121,0,1411,NA,
+Sphingolipid metabolism,56848,NA,121,0,1412,NA,
+Sphingolipid metabolism,56848,NA,121,0,1413,NA,
+Sphingolipid metabolism,8877,NA,121,0,1414,NA,
+Sphingolipid metabolism,8877,NA,121,0,1415,NA,
+Sphingolipid metabolism,8877,NA,121,0,1416,NA,
+Sphingolipid metabolism,55512,NA,121,0,1417,NA,
+Sphingolipid metabolism,55512,NA,121,0,1418,NA,
+Sphingolipid metabolism,55512,NA,121,0,1419,NA,
+Sphingolipid metabolism,55512,NA,121,0,1420,NA,
+Sphingolipid metabolism,55512,NA,121,0,1421,NA,
+Sphingolipid metabolism,55512,NA,121,0,1422,NA,
+Sphingolipid metabolism,339221,NA,121,0,1423,NA,
+Sphingolipid metabolism,339221,NA,121,0,1424,NA,
+Sphingolipid metabolism,55627,NA,121,0,1425,NA,
+Sphingolipid metabolism,55627,NA,121,0,1426,NA,
+Sphingolipid metabolism,6609,NA,121,0,1427,NA,
+Sphingolipid metabolism,6609,NA,121,0,1428,NA,
+Sphingolipid metabolism,6610,NA,121,0,1429,NA,
+Sphingolipid metabolism,6610,NA,121,0,1430,NA,
+Sphingolipid metabolism,259230,NA,121,0,1431,NA,
+Sphingolipid metabolism,259230,NA,121,0,1432,NA,
+Sphingolipid metabolism,10610,NA,121,0,1433,NA,
+Sphingolipid metabolism,10610,NA,121,0,1434,NA,
+Sphingolipid metabolism,10610,NA,121,0,1435,NA,
+Sphingolipid metabolism,10610,NA,121,0,1436,NA,
+Sphingolipid metabolism,10610,NA,121,0,1437,NA,
+Sphingolipid metabolism,10610,NA,121,0,1438,NA,
+Sphingolipid metabolism,10610,NA,121,0,1439,NA,
+Sphingolipid metabolism,10610,NA,121,0,1440,NA,
+Sphingolipid metabolism,256435,NA,121,0,1441,NA,
+Sphingolipid metabolism,30815,NA,121,0,1442,NA,
+Sphingolipid metabolism,30815,NA,121,0,1443,NA,
+Sphingolipid metabolism,81849,NA,121,0,1444,NA,
+Sphingolipid metabolism,6489,NA,121,0,1445,NA,
+Sphingolipid metabolism,6489,NA,121,0,1446,NA,
+Sphingolipid metabolism,29906,NA,121,0,1447,NA,
+Sphingolipid metabolism,29906,NA,121,0,1448,NA,
+Sphingolipid metabolism,29906,NA,121,0,1449,NA,
+Sphingolipid metabolism,29906,NA,121,0,1450,NA,
+Sphingolipid metabolism,29906,NA,121,0,1451,NA,
+Sphingolipid metabolism,7357,NA,121,0,1452,NA,
+Sphingolipid metabolism,7357,NA,121,0,1453,NA,
+Sphingolipid metabolism,130367,NA,121,0,1454,NA,
+Sphingolipid metabolism,9331,NA,121,0,1455,NA,
+Sphingolipid metabolism,166929,NA,121,0,1456,NA,
+Sphingolipid metabolism,166929,NA,121,0,1457,NA,
+Sphingolipid metabolism,125981,NA,121,0,1458,NA,
+Sphingolipid metabolism,125981,NA,121,0,1459,NA,
+Sphingolipid metabolism,55331,NA,121,0,1460,NA,
+Sphingolipid metabolism,55331,NA,121,0,1461,NA,
+Sphingolipid metabolism,55331,NA,121,0,1462,NA,
+Sphingolipid metabolism,55331,NA,121,0,1463,NA,
+Sphingolipid metabolism,55331,NA,121,0,1464,NA,
+Sphingolipid metabolism,340485,NA,121,0,1465,NA,
+Sphingolipid metabolism,340485,NA,121,0,1466,NA,
+Sphingolipid metabolism,340485,NA,121,0,1467,NA,
+Sphingolipid metabolism,5660,NA,121,0,1468,NA,
+Sphingolipid metabolism,5660,NA,121,0,1469,NA,
+Sphingolipid metabolism,5660,NA,121,0,1470,NA,
+Sphingolipid metabolism,2760,NA,121,0,1471,NA,
+Sphingolipid metabolism,2760,NA,121,0,1472,NA,
+Sphingolipid metabolism,2760,NA,121,0,1473,NA,
+Sphingolipid metabolism,2760,NA,121,0,1474,NA,
+Sphingolipid metabolism,2760,NA,121,0,1475,NA,
+Sphingolipid metabolism,57704,NA,121,0,1476,NA,
+Sphingolipid metabolism,4759,NEU2,121,5,1,Scutellarein,NEU21; NEU22; NEU23; NEU24; NEU25
+Sphingolipid metabolism,4759,NEU2,121,5,1,Scutellarein,NEU21; NEU22; NEU23; NEU24; NEU25
+Sphingolipid metabolism,4759,NEU2,121,5,1,Scutellarein,NEU21; NEU22; NEU23; NEU24; NEU25
+Sphingolipid metabolism,4759,NEU2,121,5,1,Scutellarein,NEU21; NEU22; NEU23; NEU24; NEU25
+Sphingolipid metabolism,4759,NEU2,121,5,1,Scutellarein,NEU21; NEU22; NEU23; NEU24; NEU25
+Sphingolipid metabolism,10825,NA,121,0,1482,NA,
+Sphingolipid metabolism,10825,NA,121,0,1483,NA,
+Sphingolipid metabolism,10825,NA,121,0,1484,NA,
+Sphingolipid metabolism,10825,NA,121,0,1485,NA,
+Sphingolipid metabolism,10825,NA,121,0,1486,NA,
+Sphingolipid metabolism,10825,NA,121,0,1487,NA,
+Sphingolipid metabolism,10825,NA,121,0,1488,NA,
+Sphingolipid metabolism,10825,NA,121,0,1489,NA,
+Sphingolipid metabolism,10825,NA,121,0,1490,NA,
+Sphingolipid metabolism,7903,NA,121,0,1491,NA,
+Sphingolipid metabolism,9663,NA,121,0,1492,NA,
+Sphingolipid metabolism,9663,NA,121,0,1493,NA,
+Sphingolipid metabolism,64748,NA,121,0,1494,NA,
+Sphingolipid metabolism,9890,NA,121,0,1495,NA,
+Sphingolipid metabolism,79948,NA,121,0,1496,NA,
+Sphingolipid metabolism,64900,NA,121,0,1497,NA,
+Sphingolipid metabolism,64900,NA,121,0,1498,NA,
+Sphingolipid metabolism,23175,NA,121,0,1499,NA,
+Sphingolipid metabolism,23175,NA,121,0,1500,NA,
+Sphingolipid metabolism,84513,,121,0,0,,
+Sphingolipid metabolism,196051,,121,0,0,,
+Sphingolipid metabolism,79603,,121,0,0,,
+Sphingolipid metabolism,79603,,121,0,0,,
+Sphingolipid metabolism,91012,,121,0,0,,
+Sphingolipid metabolism,91012,,121,0,0,,
+Sphingolipid metabolism,29956,,121,0,0,,
+Sphingolipid metabolism,29956,,121,0,0,,
+Sphingolipid metabolism,204219,,121,0,0,,
+Sphingolipid metabolism,204219,,121,0,0,,
+Sphingolipid metabolism,253782,,121,0,0,,
+Sphingolipid metabolism,253782,,121,0,0,,
+Sphingolipid metabolism,10715,,121,0,0,,
+Sphingolipid metabolism,10715,,121,0,0,,
+Sphingolipid metabolism,56624,,121,0,0,,
+Sphingolipid metabolism,55830,,121,0,0,,
+Sphingolipid metabolism,55624,,121,0,0,,
+Sphingolipid metabolism,55757,,121,0,0,,
+Sphingolipid metabolism,168391,,121,0,0,,
+Sphingolipid metabolism,83468,,121,0,0,,
+Sphingolipid metabolism,8702,,121,0,0,,
+Sphingolipid metabolism,140687,,121,0,0,,
+Sphingolipid metabolism,3703,,121,0,0,,
+Sphingolipid metabolism,56886,,121,0,0,,
+Sphingolipid metabolism,283358,,121,0,0,,
+Sphingolipid metabolism,8473,,121,0,0,,
+Sphingolipid metabolism,8707,,121,0,0,,
+Sphingolipid metabolism,148789,,121,0,0,,
+Sphingolipid metabolism,56983,,121,0,0,,
+Sphingolipid metabolism,201595,,121,0,0,,
+Sphingolipid metabolism,124872,,121,0,0,,
+Sphingolipid metabolism,146664,,121,0,0,,
+Sphingolipid metabolism,8708,,121,0,0,,
+Sphingolipid metabolism,84750,,121,0,0,,
+Sphingolipid metabolism,2529,,121,0,0,,
+Sphingolipid metabolism,338707,,121,0,0,,
+Sphingolipid metabolism,145173,,121,0,0,,
+Sphingolipid metabolism,200810,,121,0,0,,
+Sphingolipid metabolism,2526,,121,0,0,,
+Sphingolipid metabolism,170384,,121,0,0,,
+Sphingolipid metabolism,360203,,121,0,0,,
+Sphingolipid metabolism,152586,,121,0,0,,
+Sphingolipid metabolism,644378,,121,0,0,,
+Sphingolipid metabolism,84752,,121,0,0,,
+Sphingolipid metabolism,644974,,121,0,0,,
+Starch and sucrose metabolism,6520,,40,2,0,,AMY1e; AMY2e
+Starch and sucrose metabolism,6520,,40,2,0,,AMY1e; AMY2e
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,280,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,278,AMY1C,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,276,AMY1A,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,277,AMY1B,40,19,1,Scutellarein,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,6519,,40,2,0,,AMY1e; AMY2e
+Starch and sucrose metabolism,6519,,40,2,0,,AMY1e; AMY2e
+Starch and sucrose metabolism,11136,,40,2,0,,AMY1e; AMY2e
+Starch and sucrose metabolism,11136,,40,2,0,,AMY1e; AMY2e
+Starch and sucrose metabolism,276,AMY1A,40,2,1,Scutellarein,AMY1e; AMY2e
+Starch and sucrose metabolism,276,AMY1A,40,2,1,Scutellarein,AMY1e; AMY2e
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,279,,40,19,0,,AMY1e; AMY2e; RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,5167,,40,0,0,,
+Starch and sucrose metabolism,5167,,40,0,0,,
+Starch and sucrose metabolism,5169,,40,0,0,,
+Starch and sucrose metabolism,5169,,40,0,0,,
+Starch and sucrose metabolism,8972,,40,0,0,,
+Starch and sucrose metabolism,8972,,40,0,0,,
+Starch and sucrose metabolism,8972,,40,0,0,,
+Starch and sucrose metabolism,8972,,40,0,0,,
+Starch and sucrose metabolism,8908,,40,0,0,,
+Starch and sucrose metabolism,8908,,40,0,0,,
+Starch and sucrose metabolism,2998,,40,0,0,,
+Starch and sucrose metabolism,2998,,40,0,0,,
+Starch and sucrose metabolism,2992,,40,0,0,,
+Starch and sucrose metabolism,2992,,40,0,0,,
+Starch and sucrose metabolism,2997,,40,0,0,,
+Starch and sucrose metabolism,2997,,40,0,0,,
+Starch and sucrose metabolism,2632,,40,0,0,,
+Starch and sucrose metabolism,178,,40,0,0,,
+Starch and sucrose metabolism,178,,40,0,0,,
+Starch and sucrose metabolism,178,,40,0,0,,
+Starch and sucrose metabolism,178,,40,0,0,,
+Starch and sucrose metabolism,178,,40,0,0,,
+Starch and sucrose metabolism,178,,40,0,0,,
+Starch and sucrose metabolism,5834,,40,0,0,,
+Starch and sucrose metabolism,5834,,40,0,0,,
+Starch and sucrose metabolism,5837,,40,0,0,,
+Starch and sucrose metabolism,5837,,40,0,0,,
+Starch and sucrose metabolism,5836,,40,0,0,,
+Starch and sucrose metabolism,5836,,40,0,0,,
+Starch and sucrose metabolism,2548,,40,0,0,,
+Starch and sucrose metabolism,2548,,40,0,0,,
+Starch and sucrose metabolism,2548,,40,0,0,,
+Starch and sucrose metabolism,2595,,40,0,0,,
+Starch and sucrose metabolism,2595,,40,0,0,,
+Starch and sucrose metabolism,6476,,40,0,0,,
+Starch and sucrose metabolism,6476,,40,0,0,,
+Starch and sucrose metabolism,80162,,40,0,0,,
+Starch and sucrose metabolism,11181,,40,0,0,,
+Starch and sucrose metabolism,11181,,40,0,0,,
+Starch and sucrose metabolism,7358,,40,0,0,,
+Starch and sucrose metabolism,5168,,40,0,0,,
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,84569,,40,17,0,,RE0915E; RE0926E; RE0935E; RE0944E; RE0958E; HMR_8570; HMR_8571; HMR_8572; HMR_8573; HMR_8574; HMR_8575; HMR_8576; HMR_8577; HMR_8578; HMR_8579; HMR_8580; HMR_8582
+Starch and sucrose metabolism,283209,,40,0,0,,
+Steroid metabolism,6818,,85,0,0,,
+Steroid metabolism,6818,,85,0,0,,
+Steroid metabolism,6818,,85,0,0,,
+Steroid metabolism,6818,,85,0,0,,
+Steroid metabolism,6818,,85,0,0,,
+Steroid metabolism,6818,,85,0,0,,
+Steroid metabolism,6817,,85,0,0,,
+Steroid metabolism,6817,,85,0,0,,
+Steroid metabolism,6817,,85,0,0,,
+Steroid metabolism,6817,,85,0,0,,
+Steroid metabolism,6817,,85,0,0,,
+Steroid metabolism,6822,,85,0,0,,
+Steroid metabolism,6822,,85,0,0,,
+Steroid metabolism,6822,,85,0,0,,
+Steroid metabolism,6822,,85,0,0,,
+Steroid metabolism,3030,,85,0,0,,
+Steroid metabolism,1571,,85,0,0,,
+Steroid metabolism,1645,,85,0,0,,
+Steroid metabolism,1109,,85,0,0,,
+Steroid metabolism,1109,,85,0,0,,
+Steroid metabolism,3295,,85,0,0,,
+Steroid metabolism,6820,,85,0,0,,
+Steroid metabolism,51004,,85,0,0,,
+Steroid metabolism,6783,,85,0,0,,
+Steroid metabolism,6783,,85,0,0,,
+Steroid metabolism,3028,,85,0,0,,
+Steroid metabolism,3033,,85,0,0,,
+Steroid metabolism,3290,,85,0,0,,
+Steroid metabolism,3290,,85,0,0,,
+Steroid metabolism,3290,,85,0,0,,
+Steroid metabolism,3291,,85,0,0,,
+Steroid metabolism,3292,,85,0,0,,
+Steroid metabolism,3292,,85,0,0,,
+Steroid metabolism,7923,,85,0,0,,
+Steroid metabolism,7923,,85,0,0,,
+Steroid metabolism,3294,,85,0,0,,
+Steroid metabolism,3294,,85,0,0,,
+Steroid metabolism,3294,,85,0,0,,
+Steroid metabolism,51478,,85,0,0,,
+Steroid metabolism,51478,,85,0,0,,
+Steroid metabolism,51478,,85,0,0,,
+Steroid metabolism,3283,,85,0,0,,
+Steroid metabolism,3283,,85,0,0,,
+Steroid metabolism,3283,,85,0,0,,
+Steroid metabolism,3283,,85,0,0,,
+Steroid metabolism,3283,,85,0,0,,
+Steroid metabolism,3283,,85,0,0,,
+Steroid metabolism,3284,,85,0,0,,
+Steroid metabolism,3284,,85,0,0,,
+Steroid metabolism,3284,,85,0,0,,
+Steroid metabolism,3284,,85,0,0,,
+Steroid metabolism,3284,,85,0,0,,
+Steroid metabolism,3284,,85,0,0,,
+Steroid metabolism,3284,,85,0,0,,
+Steroid metabolism,3284,,85,0,0,,
+Steroid metabolism,3284,,85,0,0,,
+Steroid metabolism,1545,CYP1B1,85,1,1,Scutellarein,P4501B1r
+Steroid metabolism,1583,,85,0,0,,
+Steroid metabolism,1583,,85,0,0,,
+Steroid metabolism,1583,,85,0,0,,
+Steroid metabolism,1584,,85,0,0,,
+Steroid metabolism,1584,,85,0,0,,
+Steroid metabolism,1584,,85,0,0,,
+Steroid metabolism,1584,,85,0,0,,
+Steroid metabolism,1585,,85,0,0,,
+Steroid metabolism,1585,,85,0,0,,
+Steroid metabolism,1585,,85,0,0,,
+Steroid metabolism,1585,,85,0,0,,
+Steroid metabolism,1585,,85,0,0,,
+Steroid metabolism,1586,,85,0,0,,
+Steroid metabolism,1586,,85,0,0,,
+Steroid metabolism,1586,,85,0,0,,
+Steroid metabolism,1586,,85,0,0,,
+Steroid metabolism,1586,,85,0,0,,
+Steroid metabolism,1586,,85,0,0,,
+Steroid metabolism,1588,,85,0,0,,
+Steroid metabolism,1588,,85,0,0,,
+Steroid metabolism,1588,,85,0,0,,
+Steroid metabolism,1588,,85,0,0,,
+Steroid metabolism,1576,,85,1,0,,P4501B1r
+Steroid metabolism,1589,,85,0,0,,
+Steroid metabolism,1589,,85,0,0,,
+Steroid metabolism,1589,,85,0,0,,
+Steroid metabolism,1589,,85,0,0,,
+Steroid metabolism,1589,,85,0,0,,
+Steroid metabolism,1589,,85,0,0,,
+Steroid metabolism,1589,,85,0,0,,
+Steroid metabolism,1589,,85,0,0,,
+Steroid metabolism,1589,,85,0,0,,
+Steroid metabolism,1565,,85,0,0,,
+Steroid metabolism,64816,,85,0,0,,
+Steroid metabolism,64816,,85,0,0,,
+Steroid metabolism,64816,,85,0,0,,
+Steroid metabolism,1551,,85,0,0,,
+Steroid metabolism,6820,,85,0,0,,
+Steroid metabolism,50700,,85,0,0,,
+Steroid metabolism,6715,,85,0,0,,
+Steroid metabolism,6715,,85,0,0,,
+Steroid metabolism,6716,,85,0,0,,
+Steroid metabolism,6716,,85,0,0,,
+Steroid metabolism,412,,85,0,0,,
+Steroid metabolism,412,,85,0,0,,
+Steroid metabolism,412,,85,0,0,,
+Steroid metabolism,412,,85,0,0,,
+Steroid metabolism,412,,85,0,0,,
+Steroid metabolism,412,,85,0,0,,
+Steroid metabolism,412,,85,0,0,,
+Steroid metabolism,412,,85,0,0,,
+Steroid metabolism,412,,85,0,0,,
+Steroid metabolism,54576,,85,1,0,,UGT1A2r
+Steroid metabolism,54576,,85,1,0,,UGT1A2r
+Steroid metabolism,54576,,85,1,0,,UGT1A2r
+Steroid metabolism,54576,,85,1,0,,UGT1A2r
+Steroid metabolism,54576,,85,1,0,,UGT1A2r
+Steroid metabolism,54576,,85,1,0,,UGT1A2r
+Steroid metabolism,54576,,85,1,0,,UGT1A2r
+Steroid metabolism,54576,,85,1,0,,UGT1A2r
+Steroid metabolism,54575,,85,1,0,,UGT1A2r
+Steroid metabolism,54575,,85,1,0,,UGT1A2r
+Steroid metabolism,54575,,85,1,0,,UGT1A2r
+Steroid metabolism,54575,,85,1,0,,UGT1A2r
+Steroid metabolism,54575,,85,1,0,,UGT1A2r
+Steroid metabolism,54575,,85,1,0,,UGT1A2r
+Steroid metabolism,54575,,85,1,0,,UGT1A2r
+Steroid metabolism,54578,,85,1,0,,UGT1A2r
+Steroid metabolism,54579,,85,1,0,,UGT1A2r
+Steroid metabolism,54600,,85,1,0,,UGT1A2r
+Steroid metabolism,54658,UGT1A1,85,1,1,Scutellarein,UGT1A2r
+Steroid metabolism,54659,,85,1,0,,UGT1A2r
+Steroid metabolism,54577,,85,1,0,,UGT1A2r
+Steroid metabolism,54657,,85,1,0,,UGT1A2r
+Steroid metabolism,7364,,85,0,0,,
+Steroid metabolism,54490,,85,0,0,,
+Steroid metabolism,54490,,85,0,0,,
+Steroid metabolism,54490,,85,0,0,,
+Steroid metabolism,54490,,85,0,0,,
+Steroid metabolism,7367,,85,0,0,,
+Steroid metabolism,7363,,85,0,0,,
+Steroid metabolism,3293,,85,0,0,,
+Steroid metabolism,285440,,85,0,0,,
+Steroid metabolism,8630,,85,0,0,,
+Steroid metabolism,158160,,85,0,0,,
+Steroid metabolism,51144,,85,0,0,,
+Steroid metabolism,51170,,85,0,0,,
+Tryptophan metabolism,26,,35,0,0,,
+Tryptophan metabolism,314,,35,0,0,,
+Tryptophan metabolism,314,,35,0,0,,
+Tryptophan metabolism,89874,,35,0,0,,
+Tryptophan metabolism,23498,,35,0,0,,
+Tryptophan metabolism,51166,,35,0,0,,
+Tryptophan metabolism,51166,,35,0,0,,
+Tryptophan metabolism,883,,35,0,0,,
+Tryptophan metabolism,883,,35,0,0,,
+Tryptophan metabolism,883,,35,0,0,,
+Tryptophan metabolism,883,,35,0,0,,
+Tryptophan metabolism,51166,,35,0,0,,
+Tryptophan metabolism,51166,,35,0,0,,
+Tryptophan metabolism,1644,,35,0,0,,
+Tryptophan metabolism,1644,,35,0,0,,
+Tryptophan metabolism,4128,,35,0,0,,
+Tryptophan metabolism,4128,,35,0,0,,
+Tryptophan metabolism,4129,,35,0,0,,
+Tryptophan metabolism,4129,,35,0,0,,
+Tryptophan metabolism,8659,,35,0,0,,
+Tryptophan metabolism,8659,,35,0,0,,
+Tryptophan metabolism,316,,35,0,0,,
+Tryptophan metabolism,38,,35,0,0,,
+Tryptophan metabolism,3032,,35,0,0,,
+Tryptophan metabolism,3032,,35,0,0,,
+Tryptophan metabolism,3032,,35,0,0,,
+Tryptophan metabolism,3030,,35,0,0,,
+Tryptophan metabolism,3030,,35,0,0,,
+Tryptophan metabolism,3030,,35,0,0,,
+Tryptophan metabolism,39,,35,0,0,,
+Tryptophan metabolism,438,,35,0,0,,
+Tryptophan metabolism,216,,35,0,0,,
+Tryptophan metabolism,8854,,35,0,0,,
+Tryptophan metabolism,501,,35,0,0,,
+Tryptophan metabolism,501,,35,0,0,,
+Tryptophan metabolism,8854,,35,0,0,,
+Tryptophan metabolism,223,,35,0,0,,
+Tryptophan metabolism,223,,35,0,0,,
+Tryptophan metabolism,224,,35,0,0,,
+Tryptophan metabolism,224,,35,0,0,,
+Tryptophan metabolism,8854,,35,0,0,,
+Tryptophan metabolism,219,,35,0,0,,
+Tryptophan metabolism,219,,35,0,0,,
+Tryptophan metabolism,217,,35,0,0,,
+Tryptophan metabolism,217,,35,0,0,,
+Tryptophan metabolism,3295,,35,0,0,,
+Tryptophan metabolism,1892,,35,0,0,,
+Tryptophan metabolism,549,,35,0,0,,
+Tryptophan metabolism,1891,,35,0,0,,
+Tryptophan metabolism,1962,,35,0,0,,
+Tryptophan metabolism,1962,,35,0,0,,
+Tryptophan metabolism,125061,,35,0,0,,
+Tryptophan metabolism,125061,,35,0,0,,
+Tryptophan metabolism,2639,,35,0,0,,
+Tryptophan metabolism,2639,,35,0,0,,
+Tryptophan metabolism,2639,,35,0,0,,
+Tryptophan metabolism,3028,,35,0,0,,
+Tryptophan metabolism,3033,,35,0,0,,
+Tryptophan metabolism,8942,,35,0,0,,
+Tryptophan metabolism,8942,,35,0,0,,
+Tryptophan metabolism,8942,,35,0,0,,
+Tryptophan metabolism,8564,,35,0,0,,
+Tryptophan metabolism,3620,,35,0,0,,
+Tryptophan metabolism,3620,,35,0,0,,
+Tryptophan metabolism,1557,,35,1,0,,MELATNOX
+Tryptophan metabolism,1543,CYP1A1,35,1,1,Scutellarein,MELATNOX
+Tryptophan metabolism,1545,CYP1B1,35,1,1,Scutellarein,MELATNOX
+Tryptophan metabolism,1544,,35,1,0,,MELATNOX
+Tryptophan metabolism,130013,,35,0,0,,
+Tryptophan metabolism,15,,35,0,0,,
+Tryptophan metabolism,7166,,35,0,0,,
+Tryptophan metabolism,121278,,35,0,0,,
+Tryptophan metabolism,6999,,35,0,0,,
+Tryptophan metabolism,169355,,35,0,0,,
+Vitamin A metabolism,130,,17,0,0,,
+Vitamin A metabolism,127,,17,0,0,,
+Vitamin A metabolism,125,,17,0,0,,
+Vitamin A metabolism,124,,17,0,0,,
+Vitamin A metabolism,131,,17,0,0,,
+Vitamin A metabolism,126,,17,0,0,,
+Vitamin A metabolism,128,,17,0,0,,
+Vitamin A metabolism,137872,,17,0,0,,
+Vitamin A metabolism,216,,17,0,0,,
+Vitamin A metabolism,8854,,17,0,0,,
+Vitamin A metabolism,53630,,17,0,0,,
+Vitamin A metabolism,9227,,17,0,0,,
+Vitamin A metabolism,2944,,17,0,0,,
+Vitamin A metabolism,2944,,17,0,0,,
+Vitamin A metabolism,5959,,17,0,0,,
+Vitamin A metabolism,5959,,17,0,0,,
+Vitamin A metabolism,5959,,17,0,0,,
+Vitamin A metabolism,5959,,17,0,0,,
+Vitamin A metabolism,5959,,17,0,0,,
+Vitamin A metabolism,8608,,17,0,0,,
+Vitamin A metabolism,157506,,17,0,0,,
+Vitamin A metabolism,157506,,17,0,0,,
+Vitamin A metabolism,112724,,17,0,0,,
+Vitamin A metabolism,112724,,17,0,0,,
+Vitamin A metabolism,112724,,17,0,0,,
+Vitamin A metabolism,145226,,17,0,0,,
+Vitamin A metabolism,145226,,17,0,0,,
+Vitamin A metabolism,145226,,17,0,0,,
+Vitamin A metabolism,145226,,17,0,0,,
+Vitamin A metabolism,51109,,17,0,0,,
+Vitamin A metabolism,51109,,17,0,0,,
+Vitamin A metabolism,51109,,17,0,0,,
+Vitamin A metabolism,51109,,17,0,0,,
+Vitamin A metabolism,195814,,17,0,0,,
+Vitamin A metabolism,195814,,17,0,0,,
+Vitamin A metabolism,195814,,17,0,0,,
+Vitamin A metabolism,195814,,17,0,0,,
+Vitamin A metabolism,57665,,17,0,0,,
+Vitamin A metabolism,57665,,17,0,0,,
+Vitamin A metabolism,57665,,17,0,0,,
+Vitamin A metabolism,50700,,17,0,0,,
+Vitamin A metabolism,50700,,17,0,0,,
+Vitamin A metabolism,50700,,17,0,0,,
+Vitamin A metabolism,8228,,17,0,0,,
+Vitamin A metabolism,54576,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,54576,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,54575,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,54575,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,54578,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,54579,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,54600,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,54658,UGT1A1,17,2,1,Scutellarein,UGT1A5r2; RE2147C
+Vitamin A metabolism,54658,UGT1A1,17,2,1,Scutellarein,UGT1A5r2; RE2147C
+Vitamin A metabolism,54659,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,54577,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,54657,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,54490,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,7367,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,10720,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,7363,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,7365,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,7366,,17,1,0,,UGT1A5r2
+Vitamin A metabolism,8630,,17,0,0,,
+Vitamin A metabolism,10170,,17,0,0,,
+Vitamin A metabolism,9249,,17,0,0,,

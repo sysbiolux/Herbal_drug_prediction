@@ -1,0 +1,41 @@
+Abemaciclib
+Paclitaxel
+Everolimus
+Alpelisib
+Anastrozole
+Pamidronate
+Exemestane
+Atezolizumab
+Capecitabine
+Cyclophosphamide
+Docetaxel
+Doxorubicin 
+Epirubicin  
+Eribulin 
+Fluorouracil 
+Trastuzumab
+Trastuzumab deruxtecan
+Trastuzumab emtansine
+Toremifene
+Fulvestrant
+Letrozole
+Gemcitabine 
+Goserelin
+Palbociclib
+Ixabepilone
+Pembrolizumab
+Ribociclib
+Lapatinib 
+Olaparib
+Margetuximab
+Megestrol
+Methotrexate
+Neratinib
+Pertuzumab
+Sacituzumab
+Tamoxifen 
+Tamoxifen citrate
+Talazoparib 
+Thiotepa
+Tucatinib
+Vinblastine 

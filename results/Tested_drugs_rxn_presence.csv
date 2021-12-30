@@ -1,0 +1,461 @@
+RXN_id,Pathway,Bruceine_D,Emodin,Scutellarein,DMSO
+HMR_1944,"Androgen and estrogen synthesis and metabolism",0,0,0,1
+HMR_1958,"Androgen and estrogen synthesis and metabolism",0,0,0,1
+HMR_1962,"Androgen and estrogen synthesis and metabolism",1,0,1,0
+HMR_1968,"Androgen and estrogen synthesis and metabolism",0,0,0,1
+HMR_1971,"Androgen and estrogen synthesis and metabolism",0,0,0,1
+HMR_1976,"Androgen and estrogen synthesis and metabolism",0,0,0,1
+HMR_2014,"Androgen and estrogen synthesis and metabolism",0,0,0,1
+HMR_2016,"Androgen and estrogen synthesis and metabolism",0,1,1,1
+HMR_2018,"Androgen and estrogen synthesis and metabolism",0,1,1,1
+HMR_2029,"Androgen and estrogen synthesis and metabolism",0,0,0,1
+HMR_2088,"Androgen and estrogen synthesis and metabolism",1,1,1,1
+HMR_2089,"Androgen and estrogen synthesis and metabolism",1,1,1,1
+RE2235R,"Androgen and estrogen synthesis and metabolism",0,0,0,1
+HMR_0942,"Arachidonic acid metabolism",1,1,1,1
+HMR_0946,"Arachidonic acid metabolism",1,1,1,1
+HMR_0950,"Arachidonic acid metabolism",1,1,1,1
+HMR_0954,"Arachidonic acid metabolism",1,1,1,1
+HMR_0960,"Arachidonic acid metabolism",1,1,1,1
+HMR_0963,"Arachidonic acid metabolism",1,1,1,1
+HMR_0979,"Arachidonic acid metabolism",1,0,0,0
+HMR_0980,"Arachidonic acid metabolism",1,0,0,0
+HMR_0981,"Arachidonic acid metabolism",1,0,0,0
+RE3476C,"Arachidonic acid metabolism",1,0,0,0
+RE3525M,"Arachidonic acid metabolism",1,1,1,1
+AKR1C41,"Bile acid synthesis",0,1,0,0
+AKR1D,"Bile acid synthesis",0,1,0,1
+AKR1D2,"Bile acid synthesis",0,0,0,1
+AMACR2p,"Bile acid synthesis",1,1,0,1
+BAAT3x,"Bile acid synthesis",1,1,0,1
+HC02195te,"Bile acid synthesis",0,1,0,0
+HC02196te,"Bile acid synthesis",0,1,0,0
+HMR_1627,"Bile acid synthesis",0,1,0,1
+HMR_1635,"Bile acid synthesis",0,0,0,1
+HMR_1637,"Bile acid synthesis",0,0,0,1
+HMR_1653,"Bile acid synthesis",0,1,0,1
+HMR_1766,"Bile acid synthesis",0,1,0,0
+HMR_1767,"Bile acid synthesis",0,1,0,0
+HMR_1768,"Bile acid synthesis",0,1,0,0
+HMR_1770,"Bile acid synthesis",0,1,0,0
+HSD3B7P,"Bile acid synthesis",0,1,0,1
+P45027A14m,"Bile acid synthesis",0,0,0,1
+P4507A1r,"Bile acid synthesis",0,1,0,1
+P4508B13r,"Bile acid synthesis",0,0,0,1
+RE1796M,"Bile acid synthesis",1,1,1,1
+RE1796R,"Bile acid synthesis",0,1,0,0
+RE1803C,"Bile acid synthesis",0,1,0,0
+RE1804C,"Bile acid synthesis",1,1,1,1
+RE1804M,"Bile acid synthesis",0,0,0,1
+RE1807M,"Bile acid synthesis",0,0,0,1
+RE1810M,"Bile acid synthesis",1,1,1,1
+RE1826C,"Bile acid synthesis",1,1,1,1
+RE1834M,"Bile acid synthesis",0,1,1,1
+RE1834X,"Bile acid synthesis",0,1,0,0
+RE1835C,"Bile acid synthesis",1,1,1,1
+RE1836C,"Bile acid synthesis",0,0,1,0
+RE1836X,"Bile acid synthesis",1,1,1,1
+RE2625C,"Bile acid synthesis",0,1,0,1
+RE2626C,"Bile acid synthesis",0,1,0,0
+RE2626M,"Bile acid synthesis",0,0,0,1
+RE2649C,"Bile acid synthesis",0,1,1,1
+RE2649M,"Bile acid synthesis",0,1,1,1
+RE2814M,"Bile acid synthesis",0,1,0,0
+RE3346C,"Bile acid synthesis",0,0,0,1
+RE3346M,"Bile acid synthesis",0,0,0,1
+SCP2x,"Bile acid synthesis",1,1,0,1
+SCPx,"Bile acid synthesis",0,1,0,1
+VLCS2p,"Bile acid synthesis",1,1,1,1
+VLCS2r,"Bile acid synthesis",1,1,1,1
+VLCSp,"Bile acid synthesis",0,1,0,1
+VLCSr,"Bile acid synthesis",0,1,0,1
+r0301,"Bile acid synthesis",1,0,0,1
+r0573,"Bile acid synthesis",0,0,1,0
+r0650,"Bile acid synthesis",1,1,1,1
+r0688,"Bile acid synthesis",1,1,1,1
+r0698,"Bile acid synthesis",1,1,1,1
+r0706,"Bile acid synthesis",0,1,0,1
+r0741,"Bile acid synthesis",0,0,0,1
+r0743,"Bile acid synthesis",0,1,0,1
+r0744,"Bile acid synthesis",0,1,0,1
+r0747,"Bile acid synthesis",0,0,0,1
+r0750,"Bile acid synthesis",0,0,0,1
+r0797,"Bile acid synthesis",1,1,0,1
+3HPVSTETteb,"Drug metabolism",1,1,1,1
+3HPVSTETtev,"Drug metabolism",1,1,1,1
+3HPVSteb,"Drug metabolism",1,1,1,1
+3HPVStep,"Drug metabolism",1,0,0,0
+3HPVSthc,"Drug metabolism",0,1,1,1
+3ISPVSteb,"Drug metabolism",1,1,1,1
+3ISPVStep,"Drug metabolism",1,0,0,0
+3ISPVSthc,"Drug metabolism",0,1,1,1
+56DHPVSteb,"Drug metabolism",1,1,1,1
+56DHPVStev,"Drug metabolism",1,1,1,1
+56EPPVSteb,"Drug metabolism",1,1,1,1
+56EPPVStev,"Drug metabolism",1,1,1,1
+6EPSteb,"Drug metabolism",1,1,1,1
+6EPVStep,"Drug metabolism",1,0,0,0
+6EPVSthc,"Drug metabolism",0,1,1,1
+7HPVSteb,"Drug metabolism",1,1,1,1
+7HPVStev,"Drug metabolism",1,1,1,1
+ACMPGLUTtep,"Drug metabolism",0,1,0,0
+ACMPGLUTthc,"Drug metabolism",0,1,0,0
+ACMPGLUtep,"Drug metabolism",0,1,0,0
+ACMPGLUthc,"Drug metabolism",0,1,0,0
+ACMPdt,"Drug metabolism",0,1,0,0
+ACMPthc,"Drug metabolism",0,1,0,0
+CRVS1tev,"Drug metabolism",1,1,1,1
+CRVSATPtu,"Drug metabolism",1,1,1,1
+CRVSM1teb,"Drug metabolism",1,1,1,1
+CRVSM23teb,"Drug metabolism",1,1,1,1
+CRVSM23tev,"Drug metabolism",1,1,1,1
+CRVSM24teb,"Drug metabolism",1,1,1,1
+CRVSM24tev,"Drug metabolism",1,1,1,1
+CRVSthc,"Drug metabolism",1,1,1,1
+DSPVSteb,"Drug metabolism",1,1,1,1
+DSPVStev,"Drug metabolism",1,1,1,1
+H2O2itr,"Drug metabolism",0,1,1,1
+MERACMPtep,"Drug metabolism",0,1,0,0
+MERACMPthc,"Drug metabolism",0,1,0,0
+PTVSTATPtu,"Drug metabolism",1,1,1,1
+PTVSTtu,"Drug metabolism",1,1,1,1
+PVSATPtu,"Drug metabolism",1,1,1,1
+PVSGLUCteb,"Drug metabolism",1,1,1,1
+PVSGLUCtev,"Drug metabolism",1,1,1,1
+PVSHtu,"Drug metabolism",1,0,0,0
+PVSOATPtu,"Drug metabolism",0,0,0,1
+PVStep,"Drug metabolism",0,1,1,0
+RSVATPtu,"Drug metabolism",1,1,1,1
+RSVtu,"Drug metabolism",1,1,1,1
+TRIPVSteb,"Drug metabolism",1,1,1,1
+TRIPVStev,"Drug metabolism",1,1,1,1
+HMR_2440,"Linoleate metabolism",0,1,1,1
+HMR_2457,"Linoleate metabolism",1,1,1,1
+RE2346C,"Linoleate metabolism",0,1,1,1
+RE3411C,"Linoleate metabolism",0,1,1,1
+RE3413C,"Linoleate metabolism",0,1,1,1
+RE3417C,"Linoleate metabolism",0,1,1,1
+RE3420C,"Linoleate metabolism",0,1,1,1
+CHSTEROLSULT,"Steroid metabolism",1,0,1,0
+ESTR2r,"Steroid metabolism",0,0,0,1
+HMR_1644,"Steroid metabolism",0,1,0,1
+HMR_1651,"Steroid metabolism",0,1,0,1
+HMR_1981,"Steroid metabolism",0,0,0,1
+HSD17B9r,"Steroid metabolism",0,1,1,0
+HSD3A1r,"Steroid metabolism",0,0,1,1
+HSD3A2r,"Steroid metabolism",0,1,0,1
+HSD3B11,"Steroid metabolism",0,0,0,1
+HSD3B2r,"Steroid metabolism",0,1,1,0
+P45011A1m,"Steroid metabolism",0,0,0,1
+P45019A1r,"Steroid metabolism",0,0,0,1
+P45019A2r,"Steroid metabolism",0,0,0,1
+P4501B1r,"Steroid metabolism",0,0,0,1
+PRGNLONESULT,"Steroid metabolism",1,0,1,0
+RE1096C,"Steroid metabolism",0,0,0,1
+RE1099C,"Steroid metabolism",1,0,1,0
+RE1100C,"Steroid metabolism",1,0,1,0
+RE1135C,"Steroid metabolism",1,0,1,0
+RE2766C,"Steroid metabolism",0,0,0,1
+SR5AR2r,"Steroid metabolism",0,0,0,1
+SR5ARr,"Steroid metabolism",0,0,0,1
+UGT1A10r,"Steroid metabolism",0,0,0,1
+2HBt2,"Transport, extracellular",1,1,1,1
+2M3HVACte,"Transport, extracellular",1,1,1,1
+2MCITt,"Transport, extracellular",0,0,1,0
+34DHOXMANDte,"Transport, extracellular",1,0,0,0
+3AIBSYMPt,"Transport, extracellular",0,0,1,0
+3AIBt1,"Transport, extracellular",1,0,0,1
+3ANTHRNtr,"Transport, extracellular",1,1,1,1
+3HCO3_NAt,"Transport, extracellular",1,1,1,1
+3MLDAt,"Transport, extracellular",1,0,1,0
+4AABUTNt,"Transport, extracellular",1,1,1,1
+4MPTNLte,"Transport, extracellular",0,0,0,1
+5ADTSTSTERONEte,"Transport, extracellular",0,0,0,1
+5EIPENCte,"Transport, extracellular",0,1,0,1
+5HOXINDOAtr,"Transport, extracellular",0,1,0,1
+5MTAte,"Transport, extracellular",1,1,1,1
+5OXPROt,"Transport, extracellular",1,0,0,0
+ACALDt,"Transport, extracellular",1,1,1,1
+ACN13ACNGALGBSIDEte,"Transport, extracellular",0,0,0,1
+ACN23ACNGALGBSIDEte,"Transport, extracellular",0,0,0,1
+ACNAMt2,"Transport, extracellular",0,0,0,1
+ACt2r,"Transport, extracellular",1,0,0,0
+ADNCNT3tc,"Transport, extracellular",0,0,0,1
+ADNt,"Transport, extracellular",1,1,1,0
+ADPOHt,"Transport, extracellular",1,0,0,0
+ALAATB0tc,"Transport, extracellular",0,0,1,0
+ALAt4,"Transport, extracellular",0,1,0,0
+ARGATB0tc,"Transport, extracellular",1,1,1,1
+ARGt4,"Transport, extracellular",1,0,0,1
+ARGtD,"Transport, extracellular",0,1,1,1
+ASNt4,"Transport, extracellular",0,0,1,0
+BILIRUBt2,"Transport, extracellular",0,0,1,1
+C04805ATP,"Transport, extracellular",0,0,0,1
+C04805td,"Transport, extracellular",1,1,1,0
+C14768ATP,"Transport, extracellular",0,0,0,1
+C14768td,"Transport, extracellular",1,1,1,0
+C14769td1,"Transport, extracellular",1,1,1,0
+C14769td2,"Transport, extracellular",0,0,0,1
+C14770ATP,"Transport, extracellular",1,1,1,1
+C14771ATP,"Transport, extracellular",1,1,1,1
+C14826ATP,"Transport, extracellular",0,0,0,1
+C14826td,"Transport, extracellular",1,1,1,0
+CE2006te,"Transport, extracellular",0,1,1,1
+CE2445t,"Transport, extracellular",1,0,0,0
+CE2512te,"Transport, extracellular",1,1,1,1
+CE2705t,"Transport, extracellular",0,0,1,0
+CE6247t,"Transport, extracellular",1,0,0,0
+CGLYt3_2_,"Transport, extracellular",1,1,1,0
+CHOLATEt3,"Transport, extracellular",0,1,0,0
+CHOLtu,"Transport, extracellular",1,1,0,1
+CLOXAtex2,"Transport, extracellular",1,1,0,0
+CLPNDt,"Transport, extracellular",0,0,1,0
+COt,"Transport, extracellular",0,0,1,1
+CRNATBtc,"Transport, extracellular",1,1,0,0
+CRNt,"Transport, extracellular",1,1,0,0
+CRNtuNa,"Transport, extracellular",1,1,0,0
+CYSATB0tc,"Transport, extracellular",1,0,0,0
+DADNt4,"Transport, extracellular",0,1,1,0
+DAGt,"Transport, extracellular",1,1,1,1
+DINt,"Transport, extracellular",1,0,1,0
+EIC21114TRte,"Transport, extracellular",0,1,1,1
+ESTRIOLATP,"Transport, extracellular",0,0,0,1
+EX_lthstrl[e],"Transport, extracellular",0,0,0,1
+FATP8t,"Transport, extracellular",1,1,1,1
+FATP9t,"Transport, extracellular",1,1,0,0
+FMNALKPle,"Transport, extracellular",1,1,1,1
+FOLABCCte,"Transport, extracellular",0,1,0,0
+FOLOAT2tc,"Transport, extracellular",0,1,0,0
+FUC13GALACGLCGAL14ACGLCGALGLUSIDEte,"Transport, extracellular",0,1,0,0
+GALt1r,"Transport, extracellular",0,1,1,1
+GBSIDEte,"Transport, extracellular",0,0,1,0
+GD1B2te,"Transport, extracellular",0,0,0,1
+GLCRt1,"Transport, extracellular",0,1,1,0
+GLCURtr,"Transport, extracellular",1,1,1,1
+GLCt1r,"Transport, extracellular",1,1,1,1
+GLNATB0tc,"Transport, extracellular",1,0,0,1
+GLNt4,"Transport, extracellular",0,1,1,1
+GLUVESSEC,"Transport, extracellular",0,0,0,1
+GLYCLTtd,"Transport, extracellular",1,1,1,1
+GLYCTDle,"Transport, extracellular",0,1,0,0
+GLYC_St,"Transport, extracellular",1,1,1,1
+GM1tg,"Transport, extracellular",0,0,0,1
+GP1Cte,"Transport, extracellular",0,0,0,1
+GQ1BALPHAte,"Transport, extracellular",0,0,0,1
+GQ1Bte,"Transport, extracellular",0,0,0,1
+H2OGLYAQPt,"Transport, extracellular",1,1,1,1
+H2Ot,"Transport, extracellular",1,0,0,0
+HC00900t1,"Transport, extracellular",1,1,1,1
+HC00900t3,"Transport, extracellular",1,1,1,1
+HDCEAtr,"Transport, extracellular",1,1,1,1
+HESTRATRIOLte,"Transport, extracellular",0,0,0,1
+HEXCt,"Transport, extracellular",0,1,1,0
+HEXDTRte,"Transport, extracellular",0,1,0,1
+HISt4,"Transport, extracellular",1,1,1,1
+HMR_0167,"Transport, extracellular",1,1,1,1
+HMR_0207,"Transport, extracellular",1,1,1,1
+HMR_0211,"Transport, extracellular",1,1,1,1
+HMR_0235,"Transport, extracellular",1,1,1,1
+HMR_0257,"Transport, extracellular",0,0,0,1
+HMR_0343,"Transport, extracellular",1,0,0,1
+HMR_0347,"Transport, extracellular",1,1,1,1
+HMR_0395,"Transport, extracellular",1,1,1,1
+HMR_3951,"Transport, extracellular",0,0,1,1
+HMR_8023,"Transport, extracellular",1,1,1,1
+HMR_8090,"Transport, extracellular",0,1,0,0
+HMR_9593,"Transport, extracellular",1,1,1,1
+HMR_9652,"Transport, extracellular",1,1,1,0
+HSPGt,"Transport, extracellular",0,0,1,1
+ICITtr,"Transport, extracellular",0,0,1,1
+ILEATB0tc,"Transport, extracellular",0,1,0,1
+ILEt4,"Transport, extracellular",0,0,0,1
+IM4ACte,"Transport, extracellular",1,0,0,0
+IND3ACt,"Transport, extracellular",1,1,1,1
+INSTt4,"Transport, extracellular",0,1,0,1
+INSTt4_2,"Transport, extracellular",1,0,1,0
+L2AADPtr,"Transport, extracellular",0,1,1,1
+LEUATB0tc,"Transport, extracellular",1,1,1,1
+LEUKTRB4WCOOHt,"Transport, extracellular",1,1,1,1
+LEUKTRB4t,"Transport, extracellular",1,1,1,1
+LEUt4,"Transport, extracellular",0,0,0,1
+LGNCt,"Transport, extracellular",1,1,1,1
+LPCHOLt,"Transport, extracellular",1,1,1,1
+LTHSTRLt,"Transport, extracellular",0,0,0,1
+LYSATB0tc,"Transport, extracellular",1,0,1,0
+LYSt4,"Transport, extracellular",1,1,1,1
+LYStiDF,"Transport, extracellular",0,0,1,1
+L_LACt2r,"Transport, extracellular",1,1,1,1
+L_LACt4r,"Transport, extracellular",1,1,1,1
+MERCPLACCYSt,"Transport, extracellular",1,1,1,1
+METATB0tc,"Transport, extracellular",1,1,1,1
+METt4,"Transport, extracellular",0,0,1,1
+MEV_Rt,"Transport, extracellular",0,1,1,0
+MHISTAte,"Transport, extracellular",0,0,0,1
+NKCC2t,"Transport, extracellular",1,1,1,1
+NKCCt,"Transport, extracellular",1,1,1,1
+NRVNCABCt,"Transport, extracellular",1,1,0,0
+NaKt,"Transport, extracellular",1,1,1,1
+O2t,"Transport, extracellular",1,1,1,1
+ORNtiDF,"Transport, extracellular",0,0,1,1
+PCRNte,"Transport, extracellular",1,0,0,0
+PHEACGLYsec,"Transport, extracellular",1,1,1,0
+PHEATB0tc,"Transport, extracellular",1,1,1,1
+PHEt4,"Transport, extracellular",0,0,0,1
+PIt8,"Transport, extracellular",1,1,1,1
+PTCRTD,"Transport, extracellular",1,0,0,0
+RIBFLVt3,"Transport, extracellular",1,0,0,0
+RTOTAL2FATPc,"Transport, extracellular",1,1,1,1
+RTOTAL2t,"Transport, extracellular",0,0,1,0
+RTOTALFATPc,"Transport, extracellular",1,1,1,1
+SERATB0tc,"Transport, extracellular",1,0,0,0
+SO4CLtex2,"Transport, extracellular",0,0,1,1
+SO4OXAtex2,"Transport, extracellular",0,0,1,1
+SPHGNSte,"Transport, extracellular",1,1,1,1
+SPHMYLNtl2,"Transport, extracellular",1,1,1,1
+SPHS1Pte,"Transport, extracellular",1,0,0,0
+THBPTt,"Transport, extracellular",1,1,0,1
+THEXDDte,"Transport, extracellular",0,1,0,1
+THRATB0tc,"Transport, extracellular",1,0,1,1
+THRt4,"Transport, extracellular",1,0,1,0
+TIGGLYte,"Transport, extracellular",0,1,1,1
+TMLYStd,"Transport, extracellular",1,1,1,1
+TRPATB0tc,"Transport, extracellular",0,0,0,1
+TRPt4,"Transport, extracellular",0,0,0,1
+TTDCEAATP,"Transport, extracellular",0,0,0,1
+TTDCEAt,"Transport, extracellular",0,1,0,0
+TYRATB0tc,"Transport, extracellular",1,0,0,1
+TYRt4,"Transport, extracellular",0,1,0,1
+UREAt,"Transport, extracellular",1,0,0,0
+VACCt,"Transport, extracellular",1,0,0,1
+VALATB0tc,"Transport, extracellular",0,0,0,1
+VALt4,"Transport, extracellular",0,0,0,1
+WHTSTSTERONEte,"Transport, extracellular",0,0,0,1
+XOLEST183te,"Transport, extracellular",1,1,1,1
+XOLESTte,"Transport, extracellular",1,1,1,1
+pac,"Transport, extracellular",0,0,0,1
+r0295,"Transport, extracellular",1,1,1,1
+r0870,"Transport, extracellular",1,1,1,1
+r0899,"Transport, extracellular",1,1,0,1
+r0940,"Transport, extracellular",1,1,1,1
+r1050,"Transport, extracellular",1,1,1,1
+r1106,"Transport, extracellular",0,1,1,1
+r1501,"Transport, extracellular",0,1,0,0
+r1502,"Transport, extracellular",0,1,0,0
+r1527,"Transport, extracellular",1,1,1,1
+r1544,"Transport, extracellular",1,1,1,0
+r1546,"Transport, extracellular",1,1,1,0
+r1547,"Transport, extracellular",1,1,1,0
+r1548,"Transport, extracellular",1,1,1,0
+r1549,"Transport, extracellular",1,1,1,0
+r1551,"Transport, extracellular",1,1,1,0
+r1552,"Transport, extracellular",1,1,1,0
+r1553,"Transport, extracellular",1,1,1,0
+r1554,"Transport, extracellular",1,1,1,0
+r1556,"Transport, extracellular",1,1,1,0
+r1557,"Transport, extracellular",1,1,1,0
+r1559,"Transport, extracellular",1,1,1,0
+r1560,"Transport, extracellular",1,1,1,0
+r1561,"Transport, extracellular",1,1,1,0
+r1562,"Transport, extracellular",1,1,1,0
+r1563,"Transport, extracellular",1,1,1,0
+r1564,"Transport, extracellular",1,1,1,0
+r1565,"Transport, extracellular",1,1,1,0
+r1566,"Transport, extracellular",1,1,1,0
+r1567,"Transport, extracellular",1,1,1,0
+r1568,"Transport, extracellular",1,1,1,0
+r1569,"Transport, extracellular",1,1,1,0
+r1570,"Transport, extracellular",1,1,1,0
+r1571,"Transport, extracellular",1,1,1,0
+r1573,"Transport, extracellular",1,1,1,0
+r1574,"Transport, extracellular",1,1,1,0
+r1575,"Transport, extracellular",1,1,1,0
+r1576,"Transport, extracellular",1,1,1,0
+r1578,"Transport, extracellular",1,1,1,0
+r1579,"Transport, extracellular",1,1,1,0
+r1580,"Transport, extracellular",1,1,1,0
+r1581,"Transport, extracellular",1,1,1,0
+r1583,"Transport, extracellular",1,1,1,0
+r1584,"Transport, extracellular",1,1,1,0
+r1585,"Transport, extracellular",1,1,1,0
+r1586,"Transport, extracellular",1,1,1,0
+r1587,"Transport, extracellular",1,1,1,0
+r1588,"Transport, extracellular",1,1,1,0
+r1589,"Transport, extracellular",1,1,1,0
+r1590,"Transport, extracellular",1,1,1,0
+r1591,"Transport, extracellular",1,1,1,0
+r1592,"Transport, extracellular",1,1,1,0
+r1593,"Transport, extracellular",1,1,1,0
+r1594,"Transport, extracellular",1,1,1,0
+r1595,"Transport, extracellular",1,1,1,0
+r1596,"Transport, extracellular",1,1,1,0
+r1597,"Transport, extracellular",1,1,1,0
+r1598,"Transport, extracellular",1,1,1,0
+r1599,"Transport, extracellular",1,1,1,0
+r1600,"Transport, extracellular",1,1,1,0
+r1602,"Transport, extracellular",1,1,1,0
+r1603,"Transport, extracellular",1,1,1,0
+r1604,"Transport, extracellular",1,1,1,0
+r1605,"Transport, extracellular",1,1,1,0
+r1606,"Transport, extracellular",1,1,1,0
+r1607,"Transport, extracellular",1,1,1,0
+r1608,"Transport, extracellular",1,1,1,0
+r1609,"Transport, extracellular",1,1,1,0
+r1610,"Transport, extracellular",1,1,1,0
+r1611,"Transport, extracellular",1,1,1,0
+r1612,"Transport, extracellular",1,1,1,0
+r1613,"Transport, extracellular",1,1,1,0
+r1614,"Transport, extracellular",1,1,1,0
+r1615,"Transport, extracellular",1,1,1,0
+r1616,"Transport, extracellular",1,1,1,0
+r1617,"Transport, extracellular",1,1,1,0
+r1618,"Transport, extracellular",1,1,1,0
+r1619,"Transport, extracellular",1,1,1,0
+r1620,"Transport, extracellular",1,1,1,0
+r1621,"Transport, extracellular",1,1,1,0
+r1622,"Transport, extracellular",1,1,1,0
+r1623,"Transport, extracellular",1,1,1,0
+r1624,"Transport, extracellular",1,1,1,0
+r1625,"Transport, extracellular",1,1,1,0
+r1626,"Transport, extracellular",1,1,1,0
+r1627,"Transport, extracellular",1,1,1,0
+r1628,"Transport, extracellular",1,1,1,0
+r1629,"Transport, extracellular",1,1,1,0
+r1630,"Transport, extracellular",1,1,1,0
+r1631,"Transport, extracellular",1,1,1,0
+r1632,"Transport, extracellular",1,1,1,0
+r1633,"Transport, extracellular",1,1,1,0
+r1634,"Transport, extracellular",1,1,1,0
+r1635,"Transport, extracellular",1,1,1,0
+r1636,"Transport, extracellular",1,1,1,0
+r1637,"Transport, extracellular",1,1,1,0
+r1638,"Transport, extracellular",1,1,1,0
+r1639,"Transport, extracellular",1,1,1,0
+r1640,"Transport, extracellular",1,1,1,0
+r1641,"Transport, extracellular",1,1,1,0
+r1642,"Transport, extracellular",1,1,1,0
+r1643,"Transport, extracellular",1,1,1,0
+r1644,"Transport, extracellular",1,1,1,0
+r1645,"Transport, extracellular",1,1,1,0
+r1646,"Transport, extracellular",1,1,1,0
+r1647,"Transport, extracellular",1,1,1,0
+r1648,"Transport, extracellular",1,1,1,0
+r1649,"Transport, extracellular",1,1,1,0
+r1650,"Transport, extracellular",1,1,1,0
+r1651,"Transport, extracellular",1,1,1,0
+r1652,"Transport, extracellular",1,1,1,0
+r1653,"Transport, extracellular",1,1,1,0
+r1654,"Transport, extracellular",1,1,1,0
+r1655,"Transport, extracellular",1,1,1,0
+r1656,"Transport, extracellular",1,1,1,0
+r1657,"Transport, extracellular",1,1,1,0
+r1658,"Transport, extracellular",1,1,1,0
+r1659,"Transport, extracellular",1,1,1,0
+r1660,"Transport, extracellular",1,1,1,0
+r1661,"Transport, extracellular",1,1,1,0
+r1662,"Transport, extracellular",1,1,1,0
+r1664,"Transport, extracellular",1,0,0,0
+r1670,"Transport, extracellular",0,0,1,0
+r1944,"Transport, extracellular",0,0,0,1
+r1969,"Transport, extracellular",0,1,0,0
+r2121,"Transport, extracellular",0,1,0,1
+r2193,"Transport, extracellular",0,0,0,1

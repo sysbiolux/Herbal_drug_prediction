@@ -10,7 +10,9 @@ A workflow for ranking herbal drugs using metabolic modeling and flux variabilit
 * [Analysis](#analysis)
 
 ## Publication
-> [Claudia Cipriani, Maria Pires Pacheco, Ali Kishk, Maryem Wachich, Daniel Abankwa, Elisabeth Schaffner-Reckinger, Thomas Sauter ‘Identification of Bruceine D as a Drug Candidate against Breast Cancer through Genome-Scale Metabolic Modelling and Cell Viability Assay’ Pharmaceuticals 2022, 15(2), 179](https://doi.org/10.3390/ph15020179) 
+> [‘Identification of Bruceine D as a Drug Candidate against Breast Cancer through Genome-Scale Metabolic Modelling and Cell Viability Assay’
+Claudia Cipriani, Maria Pires Pacheco, Ali Kishk, Maryem Wachich, Daniel Abankwa, Elisabeth Schaffner-Reckinger, Thomas Sauter 
+Pharmaceuticals 2022, 15(2), 179](https://doi.org/10.3390/ph15020179) 
 > University of Luxembourg.
 
 ## Pipeline
